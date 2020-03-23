@@ -462,6 +462,11 @@ OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.tex
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.tex
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.tex
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cbgreek\grxi1200.tfm
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-14.aux
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-15.aux
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-16.aux
@@ -526,3 +531,5 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grmn1200.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grmn1200.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grxi1200.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grxi1200.pfb

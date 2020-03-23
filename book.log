@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.25)  22 MAR 2020 23:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.25)  23 MAR 2020 13:24
 entering extended mode
 **"g:/Keybook/Physics/Volume II/book.tex"
 ("g:/Keybook/Physics/Volume II/book.tex"
@@ -1092,11 +1092,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 LaTeX Font Info:    Trying to load font information for U+esvect on input line 3.
  ("C:\Program Files\MiKTeX 2.9\tex/latex/esvect\uesvect.fd"
 File: uesvect.fd 
-))
-\tf@toc=\write5
-\openout5 = `book.toc'.
-
-
+)
 
 Package Fancyhdr Warning: \headheight is too small (0.0pt): 
 Make it at least 14.49998pt.
@@ -1106,7 +1102,11 @@ This may cause the page layout to be inconsistent, however.
 [2
 
 
-]
+])
+\tf@toc=\write5
+\openout5 = `book.toc'.
+
+ [3]
 \openout2 = `CHAPTERS/Chapter-11/Chapter-11.aux'.
 
  ("g:\Keybook\Physics\Volume II\CHAPTERS/Chapter-11/Chapter-11.tex"
@@ -1139,7 +1139,7 @@ l.123 \item P
              roperties of medium surrounding the charges] [4] ("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-3.def"
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 ) [5]
-<Images/11.1.png, id=245, 170.3163pt x 133.6995pt>
+<Images/11.1.png, id=364, 170.3163pt x 133.6995pt>
 File: Images/11.1.png Graphic file (type png)
 <use Images/11.1.png>
 Package pdftex.def Info: Images/11.1.png  used on input line 241.
@@ -1241,7 +1241,7 @@ l.272 \begin{equation}
                    \relax 
 l.272 \begin{equation}
                        [6 <g:/Keybook/Physics/Volume II/Images/11.1.png>]
-<Images/11.2.png, id=254, 126.2316pt x 99.7326pt>
+<Images/11.2.png, id=373, 126.2316pt x 99.7326pt>
 File: Images/11.2.png Graphic file (type png)
 <use Images/11.2.png>
 Package pdftex.def Info: Images/11.2.png  used on input line 283.
@@ -1279,18 +1279,18 @@ l.299   \begin{equation}
                    \relax 
 l.299   \begin{equation}
                          [7 <g:/Keybook/Physics/Volume II/Images/11.2.png>]
-<Images/11.3.png, id=266, 255.1131pt x 186.6975pt>
+<Images/11.3.png, id=385, 255.1131pt x 186.6975pt>
 File: Images/11.3.png Graphic file (type png)
 <use Images/11.3.png>
 Package pdftex.def Info: Images/11.3.png  used on input line 349.
 (pdftex.def)             Requested size: 229.59966pt x 168.02618pt.
  [8]
-<Images/11.4a.png, id=278, 178.266pt x 222.1098pt>
+<Images/11.4a.png, id=397, 178.266pt x 222.1098pt>
 File: Images/11.4a.png Graphic file (type png)
 <use Images/11.4a.png>
 Package pdftex.def Info: Images/11.4a.png  used on input line 376.
 (pdftex.def)             Requested size: 135.89174pt x 169.32712pt.
-<Images/11.4b.png, id=279, 171.5208pt x 206.4513pt>
+<Images/11.4b.png, id=398, 171.5208pt x 206.4513pt>
 File: Images/11.4b.png Graphic file (type png)
 <use Images/11.4b.png>
 Package pdftex.def Info: Images/11.4b.png  used on input line 381.
@@ -1309,23 +1309,23 @@ File: Images/11.4b.png Graphic file (type png)
 <use Images/11.4b.png>
 Package pdftex.def Info: Images/11.4b.png  used on input line 454.
 (pdftex.def)             Requested size: 135.89174pt x 163.5704pt.
-<Images/11.6a.png, id=307, 3404.72pt x 3521.155pt>
+<Images/11.6a.png, id=427, 3404.72pt x 3521.155pt>
 File: Images/11.6a.png Graphic file (type png)
 <use Images/11.6a.png>
 Package pdftex.def Info: Images/11.6a.png  used on input line 475.
 (pdftex.def)             Requested size: 135.89174pt x 140.49983pt.
-<Images/11.6b.png, id=308, 796.8972pt x 845.0772pt>
+<Images/11.6b.png, id=428, 796.8972pt x 845.0772pt>
 File: Images/11.6b.png Graphic file (type png)
 <use Images/11.6b.png>
 Package pdftex.def Info: Images/11.6b.png  used on input line 480.
 (pdftex.def)             Requested size: 135.89174pt x 144.09964pt.
-<Images/11.7.png, id=309, 721.0137pt x 767.7483pt>
+<Images/11.7.png, id=429, 721.0137pt x 767.7483pt>
 File: Images/11.7.png Graphic file (type png)
 <use Images/11.7.png>
 Package pdftex.def Info: Images/11.7.png  used on input line 505.
 (pdftex.def)             Requested size: 181.18439pt x 192.92065pt.
  [11] [12 <g:/Keybook/Physics/Volume II/Images/11.6a.png> <g:/Keybook/Physics/Volume II/Images/11.6b.png> <g:/Keybook/Physics/Volume II/Images/11.7.png>]
-<Images/11.8.png, id=333, 638.8668pt x 314.1336pt>
+<Images/11.8.png, id=452, 638.8668pt x 314.1336pt>
 File: Images/11.8.png Graphic file (type png)
 <use Images/11.8.png>
 Package pdftex.def Info: Images/11.8.png  used on input line 534.
@@ -1662,12 +1662,245 @@ Chapter 12.
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.47 \subsection*{Order of Drift Velocity}
-                                          ] [28]) [29]
+                                          ] [28]) [29pdfTeX warning (ext4): destination with the same identifier (name{equation.12.5.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.172 \include{CHAPTERS/Chapter-12/Chapter-12}
+                                              pdfTeX warning (ext4): destination with the same identifier (name{equation.12.5.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.172 \include{CHAPTERS/Chapter-12/Chapter-12}
+                                              pdfTeX warning (ext4): destination with the same identifier (name{equation.12.5.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.172 \include{CHAPTERS/Chapter-12/Chapter-12}
+                                              ]
 \openout2 = `CHAPTERS/Chapter-13/Chapter-13.aux'.
 
+ ("g:\Keybook\Physics\Volume II\CHAPTERS/Chapter-13/Chapter-13.tex"
+Chapter 13.
+[30
 
-No file CHAPTERS/Chapter-13/Chapter-13.tex.
+
+
+] [31] [32pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.93 \end{equation}
+                   pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.93 \end{equation}
+                   pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.93 \end{equation}
+                   ]pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.95 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.95 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.95 \begin{equation}
+                     pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.95 \begin{equation}
+                      ("C:\Program Files\MiKTeX 2.9\tex/latex/ucs\uni-0.def"
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+)pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.126 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.133 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.133 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.133 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.133 \begin{equation}
+                       [33pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.135 \end{equation}
+                    ] [34pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.178 \end{equation}
+                    ]pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.179 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.179 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.179 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.179 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.183 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.183 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.183 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.183 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.191 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.191 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.191 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.191 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.194 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.203 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.206 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.215 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.215 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.215 \begin{equation}
+                      pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.215 \begin{equation}
+                       [35pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.229  \subsection
+                  {Statement}]) [36pdfTeX warning (ext4): destination with the same identifier (name{equation.13.6.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.173 \include{CHAPTERS/Chapter-13/Chapter-13}
+                                              pdfTeX warning (ext4): destination with the same identifier (name{equation.13.6.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.173 \include{CHAPTERS/Chapter-13/Chapter-13}
+                                              pdfTeX warning (ext4): destination with the same identifier (name{equation.13.6.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.173 \include{CHAPTERS/Chapter-13/Chapter-13}
+                                              pdfTeX warning (ext4): destination with the same identifier (name{equation.13.6.1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.173 \include{CHAPTERS/Chapter-13/Chapter-13}
+                                              ]
 \openout2 = `CHAPTERS/Chapter-13/Chapter-14.aux'.
+
 
 No file CHAPTERS/Chapter-13/Chapter-14.tex.
 \openout2 = `CHAPTERS/Chapter-13/Chapter-15.aux'.
@@ -1694,7 +1927,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 196.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 196.
 Package rerunfilecheck Info: File `book.out' has not changed.
-(rerunfilecheck)             Checksum: 039F0A5E7935A64D3477C084FA0BE012;2176.
+(rerunfilecheck)             Checksum: 27A6266EB9340FAB1AB74C2589840679;3969.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1709,17 +1942,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 196.
  )
 (\end occurred when \ifodd on line 118 was incomplete) 
 Here is how much of TeX's memory you used:
- 34315 strings out of 492449
- 639283 string characters out of 3129736
- 702812 words of memory out of 3000000
- 37830 multiletter control sequences out of 15000+200000
- 543639 words of font info for 65 fonts, out of 3000000 for 9000
+ 34890 strings out of 492449
+ 645544 string characters out of 3129736
+ 704919 words of memory out of 3000000
+ 38340 multiletter control sequences out of 15000+200000
+ 545077 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,96p,961b,580s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1200.pfb>
-Output written on "g:\Keybook\Physics\Volume II\book.pdf" (31 pages, 1649815 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grxi1200.pfb>
+Output written on "g:\Keybook\Physics\Volume II\book.pdf" (39 pages, 1699553 bytes).
 PDF statistics:
- 617 PDF objects out of 1000 (max. 8388607)
- 221 named destinations out of 1000 (max. 500000)
- 362 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 810 PDF objects out of 1000 (max. 8388607)
+ 280 named destinations out of 1000 (max. 500000)
+ 546 words of extra memory for PDF output out of 10000 (max. 10000000)
 
