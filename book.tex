@@ -1,0 +1,197 @@
+% ****************************************************************************************** % Dissertation template and document class
+% Author  : 
+% ****************************************************************************************** %
+%%% For print copies
+%% set 'singlespace' option to set entire thesis to single space, and define "\printmode" to remove all hyperlinks for printed copies of the thesis. Delete all output files before changing this mode -- it will turn hyperref package on and off
+%\newcommand{\printmode}{}
+
+%%% For the electronic copy, use doublespacing, define "\proquestmode" to use outlined links, instead of colored links. 
+\documentclass[a4paper,12pt]{pieasthesis}
+\newcommand{\proquestmode}{} %\printmode or \proquestmode
+\title{A Reference Book of Physics \\ Volume II}
+
+%\submitted{October 10, 2011}  % degree conferral date (January, April, June, September, or November)
+%\copyrightyear{2011}  % year in which the copyright is secured by publication of the dissertation.
+\author{Assad Sultan}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+    \renewcommand{\topfraction}{0.85}	% max fraction of floats at top
+    \renewcommand{\bottomfraction}{0.6}	% max fraction of floats at bottom
+    \setcounter{topnumber}{2}
+    \setcounter{bottomnumber}{2}
+    \setcounter{totalnumber}{4}     % 2 may work better
+    \setcounter{dbltopnumber}{2}    % for 2-column pages
+    \renewcommand{\dbltopfraction}{0.66}	% fit big float above 2-col. text
+    \renewcommand{\textfraction}{0.15}	% allow minimal text w. figs
+    %   Parameters for FLOAT pages (not text pages):
+    \renewcommand{\floatpagefraction}{0.66}	% require fuller float pages
+	% N.B.: floatpagefraction MUST be less than topfraction !!
+    \renewcommand{\dblfloatpagefraction}{0.66}	% require fuller float pages
+
+\usepackage{graphicx,verbatim,amsmath,multirow,longtable,booktabs,epsfig,epstopdf,multicol}
+\setlength{\LTcapwidth}{\textwidth}
+\usepackage[top=1in, bottom=1in, left=1.5in, right=1in]{geometry}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Printed vs. online formatting
+\ifdefined\printmode
+% Printed copy
+
+% url package understands urls (with proper line-breaks) without hyperlinking them
+\usepackage{url}
+\else
+\ifdefined\proquestmode
+\usepackage[hidelinks]{hyperref}
+\hypersetup{bookmarksnumbered}
+\makeatletter
+\hypersetup{pdftitle=\@title,pdfauthor=\@author}
+\makeatother
+
+\else
+\usepackage{hyperref}
+\hypersetup{colorlinks,bookmarksnumbered}
+
+% copy the already-set title and author to use in the pdf properties
+\makeatletter
+\hypersetup{pdftitle=\@title,pdfauthor=\@author}
+\makeatother
+
+% make the page number rather than the text be the link for ToC entries
+%\hypersetup{linktocpage}
+\fi % proquest or online formatting
+\fi % printed or online formatting
+\usepackage{sectsty}
+\usepackage[english]{babel}
+\usepackage[utf8x]{inputenc}
+\usepackage{esvect}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{fullpage}
+\usepackage{xcolor}
+\usepackage{textgreek}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{fixltx2e}
+\usepackage{listings}
+\usepackage{subcaption}
+\usepackage{xpatch}
+
+\definecolor{subsectioncolor}{RGB}{0,73,140}
+\definecolor{subsubsectioncolor}{RGB}{0,73,120}
+\definecolor{paragraphcolor}{RGB}{0,73,110}
+
+\subsectionfont{\sffamily\itshape\color{subsectioncolor}}
+\subsubsectionfont{\sffamily\color{subsubsectioncolor}}
+\sectionfont{\sffamily\color{cyan}\large}
+\paragraphfont{\sffamily\color{paragraphcolor}}
+
+
+%\setcounter{secnumdepth}{3} 
+% \setcounter{tocdepth}{3}
+\setcounter{chapter}{10}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\
+
+\newenvironment{indenttext}{
+    \begin{list}{}{ \itemsep 0in \itemindent 0in
+    \labelsep 0in \labelwidth 0in
+    \listparindent 0in
+    \topsep 0in \partopsep 0in \parskip 0in \parsep 0in
+    \leftmargin 1em \rightmargin 0in
+    \raggedright
+    }
+    \item
+  }
+  {\end{list}}
+
+% another environment that's an indented list, with no spaces between items -- if we want multiple items/lines. Useful in tables. Use \item inside the environment.
+% 	\raggedright makes them left aligned instead of justified
+\newenvironment{indentlist}{
+    \begin{list}{}{ \itemsep 0in \itemindent 0in
+    \labelsep 0in \labelwidth 0in
+    \listparindent 0in
+    \topsep 0in \partopsep 0in \parskip 0in \parsep 0in
+    \leftmargin 1em \rightmargin 0in
+    \raggedright
+    }
+
+  }
+  {\end{list}}
+  \ifodd 0
+  % you can just skip the \acknowledgements and \dedication commands to leave out these sections.
+  \else
+  \dedication{Dedicated to our Parents for their love and affection}
+  % \acknowledgements{
+  % \input{front/acknowledgements}
+  % }
+  \abstract{
+  \input{front/abstract}
+  }
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\normalfont\thechapter.\space#1}{}}
+\newcommand{\schaptermark}[1]{\markboth{\normalfont#1}{}}
+\makeatletter
+
+\def\@schapter#1{\if@twocolumn
+\@topnewpage[\@makeschapterhead{#1}]
+\else
+\@makeschapterhead{#1}%
+\schaptermark{#1}%
+\@afterheading
+\fi}
+\makeatother
+
+\fancypagestyle{plain}{
+  \fancyhf{} % clear all header and footer fields
+  \fancyhead[R]{\nouppercase{\leftmark}}
+  \fancyhead[L]{A Reference Book of Physics, Vol II}
+  \fancyfoot[R]{\thepage}
+  \renewcommand{\plainheadrulewidth}{0.5pt} 
+  \renewcommand{\plainfootrulewidth}{0pt}
+}
+\fancyhf{}
+\fancyhf{} % clear all header and footer fields
+\fancyhead[R]{\nouppercase{\leftmark}}
+\fancyhead[L]{A Reference Book of Physics, Vol II}
+\fancyfoot[R]{\thepage}
+\renewcommand{\headrulewidth}{0.5pt} 
+\renewcommand{\footrulewidth}{0pt}
+
+\renewcommand{\footnoterule}{%
+\kern -3pt
+\hrule width \textwidth height 1pt
+\kern 2pt 
+}
+\usepackage[titletoc]{appendix}
+
+\begin{document}
+
+\makefrontmatter
+\include{CHAPTERS/Chapter-11/Chapter-11}
+\include{CHAPTERS/Chapter-12/Chapter-12}
+\include{CHAPTERS/Chapter-13/Chapter-13}
+\include{CHAPTERS/Chapter-13/Chapter-14}
+\include{CHAPTERS/Chapter-13/Chapter-15}
+\include{CHAPTERS/Chapter-13/Chapter-16}
+\include{CHAPTERS/Chapter-13/Chapter-17}
+\include{CHAPTERS/Chapter-13/Chapter-18}
+\include{CHAPTERS/Chapter-13/Chapter-19}
+\include{CHAPTERS/Chapter-13/Chapter-20}
+
+\addappheadtotoc
+%\appendixpage
+% \begin{appendices}
+% \include{back/appendices/appendixA}
+% \include{back/appendices/appendixB}
+% \end{appendices}
+% include your .bib file
+% \renewcommand{\bibname}{References}
+% \cleardoublepage
+% \phantomsection
+% \addcontentsline{toc}{chapter}{References}
+% \bibliographystyle{IEEEtr}
+% \bibliography{thesis}
+% \include{back/about_the_author/about_the_author}
+\end{document}
+

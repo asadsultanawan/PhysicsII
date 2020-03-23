@@ -1,0 +1,59 @@
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {11}Electrostatics}{1}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Electric Charge}{1}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Properties of Electric charge}{1}{subsection.11.1.1}%
+\contentsline {subsubsection}{Electrification}{1}{section*.5}%
+\contentsline {subsubsection}{Conservation of Electric charge}{1}{section*.6}%
+\contentsline {subsubsection}{Quantization of Electric charge}{2}{section*.7}%
+\contentsline {subsubsection}{Action between Two Charges}{2}{section*.9}%
+\contentsline {section}{\numberline {11.2}Coulomb\IeC {\textquoteright }s law}{2}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Coloumb\IeC {\textquoteright }s law in Material Media}{4}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Units of Electric Charge}{5}{subsection.11.2.2}%
+\contentsline {subsubsection}{SI Unit}{5}{section*.17}%
+\contentsline {subsubsection}{Multiples}{6}{section*.18}%
+\contentsline {subsection}{\numberline {11.2.3}Coloumb's Law and Newton's Third Law}{6}{subsection.11.2.3}%
+\contentsline {subsection}{\numberline {11.2.4}Principle of Superposition}{7}{subsection.11.2.4}%
+\contentsline {section}{\numberline {11.3}Electric Field and Electric Field Intensity}{7}{section.11.3}%
+\contentsline {subsection}{\numberline {11.3.1}Field Intensity due to a Point Charge}{8}{subsection.11.3.1}%
+\contentsline {subsection}{\numberline {11.3.2}Electric Lines of Force/Electric Field Lines}{10}{subsection.11.3.2}%
+\contentsline {subsubsection}{Definition}{10}{section*.30}%
+\contentsline {subsubsection}{Explanation}{10}{section*.31}%
+\contentsline {subsubsection}{Properties of Electric Field Lines}{10}{section*.32}%
+\contentsline {subsubsection}{Neutral point/Null point}{11}{section*.33}%
+\contentsline {subsection}{\numberline {11.3.3}Field Lines of Some Electrostatic Charge Distributions}{11}{subsection.11.3.3}%
+\contentsline {subsubsection}{For an Isolated Charge}{11}{section*.34}%
+\contentsline {subsubsection}{For Two Charges of Same Magnitude}{11}{section*.36}%
+\contentsline {subsubsection}{Electric Lines Due to a Positive Charge Near a Metal Plate}{11}{section*.38}%
+\contentsline {subsubsection}{Uniform Electric Field}{12}{section*.40}%
+\contentsline {paragraph}{Definition:}{12}{section*.41}%
+\contentsline {paragraph}{Explanation:}{12}{section*.42}%
+\contentsline {paragraph}{Production of Uniform Electric Field:}{12}{section*.43}%
+\contentsline {section}{\numberline {11.4}Electric Flux}{13}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Flux Through an Arbitary Shaped Body}{15}{subsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.4.2}Flux through a closed Arbitrary Surface}{15}{subsection.11.4.2}%
+\contentsline {section}{\numberline {11.5}Gauss\IeC {\textquoteright }s Law}{16}{section.11.5}%
+\contentsline {subsection}{\numberline {11.5.1}Electric Flux due to Many Charges}{18}{subsection.11.5.1}%
+\contentsline {subsection}{\numberline {11.5.2}Applications of Gauss\IeC {\textquoteright }s Law}{19}{subsection.11.5.2}%
+\contentsline {subsubsection}{Absence of Electric Field and Charge Inside a Condctor and Location of Excess Charge on a Conductor}{19}{section*.56}%
+\contentsline {subsubsection}{Electric Field Intensity due to a Charged Conducting Spherical Shell}{20}{section*.57}%
+\contentsline {paragraph}{Shell:}{20}{section*.58}%
+\contentsline {paragraph}{Calculation of Electric Field:}{20}{section*.59}%
+\contentsline {paragraph}{Field at the Interior:}{20}{section*.60}%
+\contentsline {paragraph}{Field at the Exterior:}{20}{section*.61}%
+\contentsline {paragraph}{Conclusion:}{21}{section*.62}%
+\contentsline {subsubsection}{Distribution of electric Charge on a Hollow Conductor having a Charge in its Cavity}{21}{section*.63}%
+\contentsline {paragraph}{Case 1: The Hollow Conductor is Uncharged:}{21}{section*.64}%
+\contentsline {paragraph}{Case 2: When the Hollow Conductor is Already Charged}{21}{section*.65}%
+\contentsline {subsubsection}{Electric Field Intensity due to an Infinite Sheet of Charge}{21}{section*.66}%
+\contentsline {paragraph}{Definition of Infinite sheet:}{21}{section*.67}%
+\contentsline {paragraph}{Calculation of Electric Field:}{21}{section*.68}%
+\contentsline {subsubsection}{Electric Field Intensity between Two Oppositely Charged Parallel Metal Plates}{22}{section*.69}%
+\contentsline {paragraph}{Note:}{23}{section*.70}%
+\contentsline {paragraph}{Alternate Method:}{23}{section*.71}%
+\contentsline {section}{\numberline {11.6}Electric Potential}{23}{section.11.6}%
+\contentsline {chapter}{\numberline {12}Electrodynamics/Current Electricity}{26}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Electric Current}{26}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Drift Velocity of Electrons in a Metallic Conductor}{27}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Sources of Current}{28}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Elecroencephalogram(EEG)}{28}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Ohm's Law}{28}{section.12.5}%
