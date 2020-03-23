@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.25)  23 MAR 2020 13:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.25)  23 MAR 2020 14:48
 entering extended mode
 **"g:/Keybook/Physics/Volume II/book.tex"
 ("g:/Keybook/Physics/Volume II/book.tex"
@@ -1285,16 +1285,16 @@ File: Images/11.3.png Graphic file (type png)
 Package pdftex.def Info: Images/11.3.png  used on input line 349.
 (pdftex.def)             Requested size: 229.59966pt x 168.02618pt.
  [8]
-<Images/11.4a.png, id=402, 178.266pt x 222.1098pt>
+<Images/11.4a.png, id=402, 154.8987pt x 164.7756pt>
 File: Images/11.4a.png Graphic file (type png)
 <use Images/11.4a.png>
 Package pdftex.def Info: Images/11.4a.png  used on input line 376.
-(pdftex.def)             Requested size: 135.89174pt x 169.32712pt.
-<Images/11.4b.png, id=403, 171.5208pt x 206.4513pt>
+(pdftex.def)             Requested size: 135.89174pt x 144.56296pt.
+<Images/11.4b.png, id=403, 164.2938pt x 164.7756pt>
 File: Images/11.4b.png Graphic file (type png)
 <use Images/11.4b.png>
 Package pdftex.def Info: Images/11.4b.png  used on input line 381.
-(pdftex.def)             Requested size: 135.89174pt x 163.5704pt.
+(pdftex.def)             Requested size: 135.89174pt x 136.29855pt.
  [9pdfTeX warning (ext4): destination with the same identifier (name{equation.11.3.15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
@@ -1304,33 +1304,33 @@ l.394 \end{equation}
 File: Images/11.4a.png Graphic file (type png)
 <use Images/11.4a.png>
 Package pdftex.def Info: Images/11.4a.png  used on input line 449.
-(pdftex.def)             Requested size: 135.89174pt x 169.32712pt.
+(pdftex.def)             Requested size: 135.89174pt x 144.56296pt.
 File: Images/11.4b.png Graphic file (type png)
 <use Images/11.4b.png>
 Package pdftex.def Info: Images/11.4b.png  used on input line 454.
-(pdftex.def)             Requested size: 135.89174pt x 163.5704pt.
-<Images/11.6a.png, id=432, 3404.72pt x 3521.155pt>
+(pdftex.def)             Requested size: 135.89174pt x 136.29855pt.
+<Images/11.6a.png, id=432, 2107.875pt x 1731.46875pt>
 File: Images/11.6a.png Graphic file (type png)
 <use Images/11.6a.png>
 Package pdftex.def Info: Images/11.6a.png  used on input line 475.
-(pdftex.def)             Requested size: 135.89174pt x 140.49983pt.
-<Images/11.6b.png, id=433, 796.8972pt x 845.0772pt>
+(pdftex.def)             Requested size: 135.89174pt x 111.62471pt.
+<Images/11.6b.png, id=433, 481.8pt x 409.53pt>
 File: Images/11.6b.png Graphic file (type png)
 <use Images/11.6b.png>
 Package pdftex.def Info: Images/11.6b.png  used on input line 480.
-(pdftex.def)             Requested size: 135.89174pt x 144.09964pt.
-<Images/11.7.png, id=434, 721.0137pt x 767.7483pt>
+(pdftex.def)             Requested size: 135.89174pt x 115.50496pt.
+ [11 <g:/Keybook/Physics/Volume II/Images/11.6a.png> <g:/Keybook/Physics/Volume II/Images/11.6b.png>]
+<Images/11.7.png, id=445, 709.9323pt x 767.7483pt>
 File: Images/11.7.png Graphic file (type png)
 <use Images/11.7.png>
 Package pdftex.def Info: Images/11.7.png  used on input line 505.
-(pdftex.def)             Requested size: 181.18439pt x 192.92065pt.
- [11] [12 <g:/Keybook/Physics/Volume II/Images/11.6a.png> <g:/Keybook/Physics/Volume II/Images/11.6b.png> <g:/Keybook/Physics/Volume II/Images/11.7.png>]
-<Images/11.8.png, id=457, 638.8668pt x 314.1336pt>
+(pdftex.def)             Requested size: 181.18439pt x 195.93138pt.
+<Images/11.8.png, id=446, 638.8668pt x 314.1336pt>
 File: Images/11.8.png Graphic file (type png)
 <use Images/11.8.png>
 Package pdftex.def Info: Images/11.8.png  used on input line 534.
 (pdftex.def)             Requested size: 271.7835pt x 133.64162pt.
- [13 <g:/Keybook/Physics/Volume II/Images/11.8.png>]
+ [12 <g:/Keybook/Physics/Volume II/Images/11.7.png>] [13 <g:/Keybook/Physics/Volume II/Images/11.8.png>]
 
 LaTeX Warning: Reference `fig...' on page 14 undefined on input line 586.
 
@@ -1338,28 +1338,28 @@ LaTeX Warning: Reference `fig...' on page 14 undefined on input line 586.
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.629 \subsection
-                 {Flux Through an Arbitary Shaped Body}pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
+l.639 
+      pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.629 \subsection
-                 {Flux Through an Arbitary Shaped Body}pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
+l.639 
+      pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.629 \subsection
-                 {Flux Through an Arbitary Shaped Body}pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
+l.639 
+      pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.629 \subsection
-                 {Flux Through an Arbitary Shaped Body}pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
+l.639 
+      pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.629 \subsection
-                 {Flux Through an Arbitary Shaped Body}]pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
+l.639 
+      ]pdfTeX warning (ext4): destination with the same identifier (name{equation.11.4.19}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.645 \begin{equation}
@@ -1643,26 +1643,26 @@ l.1139 \begin{equation}
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1180 \end{equation}
-                     ]) [25pdfTeX warning (ext4): destination with the same identifier (name{equation.11.6.42}) has been already used, duplicate ignored
+                     ] [25pdfTeX warning (ext4): destination with the same identifier (name{equation.11.6.42}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.171 \include{CHAPTERS/Chapter-11/Chapter-11}
-                                              ]
+l.1226 \end{equation}
+                     ]) [26]
 \openout2 = `CHAPTERS/Chapter-12/Chapter-12.aux'.
 
  ("g:\Keybook\Physics\Volume II\CHAPTERS/Chapter-12/Chapter-12.tex"
 Chapter 12.
-[26
+[27
 
 
 
-] [27pdfTeX warning (ext4): destination with the same identifier (name{equation.12.2.4}) has been already used, duplicate ignored
+] [28pdfTeX warning (ext4): destination with the same identifier (name{equation.12.2.4}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.47 \subsection*{Order of Drift Velocity}
-                                          ] [28]) [29pdfTeX warning (ext4): destination with the same identifier (name{equation.12.5.5}) has been already used, duplicate ignored
+                                          ] [29]) [30pdfTeX warning (ext4): destination with the same identifier (name{equation.12.5.5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1682,11 +1682,11 @@ l.172 \include{CHAPTERS/Chapter-12/Chapter-12}
 
  ("g:\Keybook\Physics\Volume II\CHAPTERS/Chapter-13/Chapter-13.tex"
 Chapter 13.
-[30
+[31
 
 
 
-] [31] [32pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+] [32] [33pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1751,12 +1751,12 @@ l.133 \begin{equation}
 <to be read again> 
                    \relax 
 l.133 \begin{equation}
-                       [33pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
+                       [34pdfTeX warning (ext4): destination with the same identifier (name{equation.13.4.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.135 \end{equation}
-                    ] [34pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+                    ] [35pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1873,12 +1873,12 @@ l.215 \begin{equation}
 <to be read again> 
                    \relax 
 l.215 \begin{equation}
-                       [35pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
+                       [36pdfTeX warning (ext4): destination with the same identifier (name{equation.13.5.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.229  \subsection
-                  {Statement}]) [36pdfTeX warning (ext4): destination with the same identifier (name{equation.13.6.1}) has been already used, duplicate ignored
+                  {Statement}]) [37pdfTeX warning (ext4): destination with the same identifier (name{equation.13.6.1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
@@ -1942,17 +1942,17 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 196.
  )
 (\end occurred when \ifodd on line 118 was incomplete) 
 Here is how much of TeX's memory you used:
- 34892 strings out of 492449
- 645580 string characters out of 3129736
- 704922 words of memory out of 3000000
- 38341 multiletter control sequences out of 15000+200000
+ 34909 strings out of 492449
+ 645791 string characters out of 3129736
+ 705328 words of memory out of 3000000
+ 38348 multiletter control sequences out of 15000+200000
  545077 words of font info for 66 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,12n,96p,961b,580s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grmn1200.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/cbgreek/grxi1200.pfb>
-Output written on "g:\Keybook\Physics\Volume II\book.pdf" (39 pages, 1700236 bytes).
+Output written on "g:\Keybook\Physics\Volume II\book.pdf" (40 pages, 3198737 bytes).
 PDF statistics:
- 815 PDF objects out of 1000 (max. 8388607)
- 281 named destinations out of 1000 (max. 500000)
+ 837 PDF objects out of 1000 (max. 8388607)
+ 291 named destinations out of 1000 (max. 500000)
  554 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -445,12 +445,12 @@ inward for a negative charge extending in space as shown:
 
 \begin{figure}[htbp]
   \centering
-  \begin{subfigure}[b]{0.3\textwidth}
+  \begin{subfigure}[t]{0.3\textwidth}
       \includegraphics[width=\textwidth]{Images/11.4a}
       \caption{Positive Charge}
       \label{fig:11.5a}
   \end{subfigure}
-  \begin{subfigure}[b]{0.3\textwidth}
+  \begin{subfigure}[t]{0.3\textwidth}
       \includegraphics[width=\textwidth]{Images/11.4b}
       \caption{Negative Charge}
       \label{fig:11.5b}
@@ -1200,21 +1200,58 @@ one coulomb of charge from one point to the other.”}}
 \end{center}
 
 \subsection{Electric Potential at a Point due to a Point charge}
+\subsubsection{Definition}
+\textit{\textbf{“The potential at a point at some distance ‘r’ from a point charge ‘q’ is the amount of work done per
+unit charge required to bring from infinity distance to that point.”}}
+\subsubsection{Mathematical Derivation}
+Let us consider a charge ‘+Q’ fixed in space. If a test charge ‘q’ is placed
+at infinity, the force on the test charge due to charge ‘+Q’ will be zero.
+As test charge is chosen positive, so when it is moved from infinity towards ‘+Q’,
+the force of repulsion acts on it. So, work is required to be done to bring it to
+point ‘B’. Hence, when the charge is moved towards point ‘B’,
+an amount of electric potential energy will be stored in it.
 
+As we know that work done on a
+body is given by $\vec{F}.\vec{d}$ i.e. work done between two points is given as:
+\begin{equation}\label{eq:11.43}
+  \Delta W = \vec{F} . \vec{d} 
+\end{equation}
+The force is required to move charge against the field, so
+\begin{equation} \label{eq:11.44}
+  \vec{F} = - q\vec{E}
+\end{equation}
+Putting \ref{eq:11.44} into \ref{eq:11.43}:
+\begin{equation}\label{eq:11.45}
+  \Delta W = -q\:\vec{E} . \vec{d} 
+\end{equation}
+Since E and d are oppositely directed, so equation \ref{eq:11.45} reduces to:
+\begin{equation}\label{eq:11.46}
+  \Delta W = qEd 
+\end{equation}
+Now, electric field due to a point charge at a distance ‘r’ is given by:
+\begin{equation}\label{eq:11.47}
+  E = \frac{Q}{4\pi\epsilon_{o} r^{2}}
+\end{equation}
+It varies inversely as square of the distance.
+So, it does not remain constant over the distance. In order to use above equation,
+E must be constant, so we divide the distance over which the test
+charge is moved into infinitesimally small displacements ‘$\Delta r$'.
+We consider two points ‘A’ and ‘B’ for convenience and charge is
+moved between these points over small displacements ‘$\Delta r$' as shown:
+%Figure
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+So equation \ref{eq:11.46} gives:
+\begin{equation}\label{eq:11.48}
+  \Delta W = qE\Delta r
+\end{equation}
+Putting value of $E$ from equation \ref{eq:11.47} into equation \ref{eq:11.48},
+we get:
+\begin{equation}\label{eq:11.49}
+  \Delta W = \frac{Qq}{4\pi\epsilon_{o} r^{2}} \Delta r
+\end{equation}
+Now, let the test charge is moved through small intervals from $r_{A}$
+to $r_{1}$, $(\Delta r = r_{A} - r_{1})$. We assume that ponts are very closer,
+still we have to take the average of $E$. As $E$ at a distance `$r_{A}$' is:
 
 
 
