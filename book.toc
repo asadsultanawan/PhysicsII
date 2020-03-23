@@ -51,6 +51,7 @@
 \contentsline {paragraph}{Note:}{23}{section*.70}%
 \contentsline {paragraph}{Alternate Method:}{23}{section*.71}%
 \contentsline {section}{\numberline {11.6}Electric Potential}{23}{section.11.6}%
+\contentsline {subsection}{\numberline {11.6.1}Electric Potential at a Point due to a Point charge}{25}{subsection.11.6.1}%
 \contentsline {chapter}{\numberline {12}Electrodynamics/Current Electricity}{26}{chapter.12}%
 \contentsline {section}{\numberline {12.1}Electric Current}{26}{section.12.1}%
 \contentsline {section}{\numberline {12.2}Drift Velocity of Electrons in a Metallic Conductor}{27}{section.12.2}%
