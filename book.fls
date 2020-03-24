@@ -134,20 +134,76 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-global.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-global.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\esvect\esvect.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\esvect\esvect.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\textgreek\textgreek.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\textgreek\textgreek.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\lgrenc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\greek-fontenc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\greek-fontenc.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
+INPUT g:\Keybook\Physics\Volume II\nul:.tex
+INPUT g:\Keybook\Physics\Volume II\nul:.tex
+INPUT g:\Keybook\Physics\Volume II\nul:.tex
+INPUT g:\Keybook\Physics\Volume II\nul:.tex
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
@@ -217,101 +273,10 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-OUTPUT g:\Keybook\Physics\Volume II\book.pdf
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\textgreek\textgreek.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\textgreek\textgreek.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\lgrenc.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\lgrenc.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\greek-fontenc.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\greek-fontenc\greek-fontenc.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\enumitem\enumitem.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\ltcaption.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xpatch\xpatch.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex
-INPUT g:\Keybook\Physics\Volume II\nul:.tex
-INPUT g:\Keybook\Physics\Volume II\nul:.tex
-INPUT g:\Keybook\Physics\Volume II\nul:.tex
-INPUT g:\Keybook\Physics\Volume II\nul:.tex
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
-INPUT C:\Program Files\MiKTeX 2.9\tex\generic\unicode-data\UnicodeData.txt
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3deprecation.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3backend\l3backend-pdfmode.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
 INPUT g:\Keybook\Physics\Volume II\book.aux
 INPUT g:\Keybook\Physics\Volume II\book.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-11\Chapter-11.aux
@@ -349,6 +314,7 @@ INPUT g:\Keybook\Physics\Volume II\book.out
 INPUT g:\Keybook\Physics\Volume II\book.out
 INPUT g:\Keybook\Physics\Volume II\book.out
 INPUT g:\Keybook\Physics\Volume II\book.out
+OUTPUT g:\Keybook\Physics\Volume II\book.pdf
 INPUT g:\Keybook\Physics\Volume II\book.out
 INPUT g:\Keybook\Physics\Volume II\book.out
 OUTPUT g:\Keybook\Physics\Volume II\book.out
@@ -406,18 +372,18 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-3.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-3.def
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cbgreek\grmn1200.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti8.tfm
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
 INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
 INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
 INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
@@ -515,6 +481,8 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
@@ -523,12 +491,12 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti8.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grmn1200.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grmn1200.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grxi1200.pfb

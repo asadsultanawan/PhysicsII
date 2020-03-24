@@ -62,7 +62,6 @@
 \usepackage[english]{babel}
 \usepackage[utf8x]{inputenc}
 \usepackage{esvect}
-\usepackage[colorinlistoftodos]{todonotes}
 \usepackage{fullpage}
 \usepackage{xcolor}
 \usepackage{textgreek}
@@ -78,6 +77,8 @@
 \definecolor{subsectioncolor}{RGB}{0,73,140}
 \definecolor{subsubsectioncolor}{RGB}{0,73,120}
 \definecolor{paragraphcolor}{RGB}{0,73,110}
+\definecolor{backgroundcheckpoint}{RGB}{204,229,255}
+\definecolor{backgroundeqn}{RGB}{255,229,204}
 
 \subsectionfont{\sffamily\itshape\color{subsectioncolor}}
 \subsubsectionfont{\sffamily\color{subsubsectioncolor}}
@@ -164,6 +165,33 @@
 \kern 2pt 
 }
 \usepackage[titletoc]{appendix}
+\setlength{\headsep}{10pt}
+
+\usepackage{tcolorbox}
+% \tcbset{
+%   frame code = {},
+%   center = title,
+%   left = 0pt,
+%   right = 0pt,
+%   top = 0pt,
+%   bottom = 0 pt,
+%   colback = backgroundcheckpoint,
+%   colframe = white,
+%   width = \dimexpr\textwidth\relax,
+%   enlarge left by = 0mm,
+%   boxsep = 5pt,
+%   arc = 0pt, outer arc = 0pt,
+% }
+
+\newtcolorbox{mybox}[3][]
+{
+  colframe = #2!25,
+  colback = #2!10,
+  coltitle = #2!20!black,
+  title = {#3},
+  #1,
+  boxsep = 5pt,
+}
 
 \begin{document}
 
