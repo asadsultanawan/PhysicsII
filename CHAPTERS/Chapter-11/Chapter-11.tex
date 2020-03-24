@@ -308,7 +308,7 @@ force on the charge `q\textsubscript{1}', we can say that:
 \begin{equation}  
   \vec{F_{1}} = \vec{F_{12}} + \vec{F_{13}} + \vec{F_{14}}+...+\vec{F_{1n}} \nonumber
 \end{equation}
-\begin{tcolorbox}
+\begin{mybox}{blue}{}
 \subsection*{Checkpoint 11.3}
 \begin{enumerate}[label=(\alph*)]
   \item We have two charges, `q\textsubscript{1}' and `q\textsubscript{2}'.
@@ -319,7 +319,7 @@ force on the charge `q\textsubscript{1}', we can say that:
     \vec{F_{12}} = -\vec{F_{21}} \nonumber
   \end{equation}
 \end{enumerate}
-\end{tcolorbox}
+\end{mybox}
 \section{Electric Field and Electric Field Intensity}
 \subsection*{Introduction}
 The concept of electric field was introduced by \textbf{\textit{Michael Faraday}}.
@@ -1133,12 +1133,16 @@ which implies:
 This is the expression for electric field of two oppositely charged
 parallel metal plates. It is independent of position at which you
 are to find the field strength.
+\begin{mybox}{green}{}
 \paragraph{Note:}
 As we know that electric field is bulging out at the ends of plates.
 So, to avoid this bulging (fringing field),
 the plates should be of infinite length. So, for practical purposes,
 the plates are said to be infinite if the distance between them is
-much smaller than their dimensions.
+much smaller than their dimensions. 
+\end{mybox}{green}{}
+
+
 \paragraph{Alternate Method:}
 Another interesting method for calculation of electric field between
 the oppositely charged metal plates, let us consider them to be infinite
@@ -1198,7 +1202,7 @@ Now, dividing equation \ref{eq:11.35} by ‘q\textsubscript{o}’:
 \begin{equation}\label{eq:11.37}
   \frac{U_{A}}{q_{o}} - \frac{U_{B}}{q_{o}} = \frac{W_{BA}}{q_{o}}
 \end{equation}
-But the potential energy at a point per unit charge is potental, denoted by ‘V’. Hence,
+But the potential energy at a point per unit charge is potential, denoted by ‘V’. Hence,
 \begin{equation}\label{eq:11.38}
   \frac{U_{A}}{q_{o}} = V_{A} \:\: and \:\: \frac{U_{B}}{q_{o}} = V_{B} 
 \end{equation}
@@ -1413,7 +1417,7 @@ So, putting equation \ref{eq:11.57} in the potential equation:
 which implies:
 \begin{mybox}{red}{}
 \begin{equation}\label{eq:11.58}
-  V = \frac{Qq}{4\pi\epsilon_{o}r} 
+  V = \frac{Q}{4\pi\epsilon_{o}r} 
 \end{equation}
 \end{mybox}
 This the mathematical form of potential at a distance `$r$' from a
@@ -1433,6 +1437,7 @@ charge i.e.
   V = V_{1} +V_{2} + V_{3} + ... + V_{n}
 \end{equation}
 \end{mybox}
+\begin{mybox}{green}{}
 \paragraph{Note:}
 \begin{enumerate}[label = (\roman*)]
 \item The potential very near the positive charge is large and decreases
@@ -1455,7 +1460,7 @@ decreases the work done will be negative. So work done against the
 field is said to be positive as it increases the potential energy
 of the system and vice versa.
 \end{enumerate}
-
+\end{mybox}
 \section{Potential Gradient and Electric Field Intensity}
 \textit{\textbf{“The maximum rate of change of electric potential 
 with respect to position is called potential gradient.”}}
@@ -1548,15 +1553,29 @@ distance ‘$r$’ from the point charge ‘q’ as shown:
 
 The electric potential due to a
 point charge at a distance ‘r’ is given by:
-
-
+\begin{equation}
+  V = \frac{Q}{4\pi\epsilon_{o}r}  \nonumber
+\end{equation}
 Now, work done on test charge ‘q\textsubscript{o}’ between points ‘A’ and
 ‘B’ on the equipotential surface will be:
+\begin{equation}\nonumber
+  W_{AB} = q_{o}\Delta V
+\end{equation}
+\begin{equation}\nonumber
+  W_{AB} = \frac{Qq_{o}}{4\pi\epsilon_{o} } (\frac{1}{r_{A}} - \frac{1}{r_{B}})
+\end{equation}
+As $r_{A} = r_{B}$, hence, 
+\begin{equation}\nonumber
+  W_{AB} = \frac{Qq_{o}}{4\pi\epsilon_{o} } (\frac{1}{r} - \frac{1}{r})
+\end{equation}
+which implies:
+\begin{equation}\nonumber
+  W_{AB} = 0
+\end{equation}
 It means that if a charge is moved over an equipotential line,
-work done on th charge will be zero. Since, potential difference is the
-amount of work done on a unit positive charge between two points. So,
-no work means no potential difference and hence the points are at
-the same potential.
+work done on the charge will be zero. Also we can say that potential difference
+between two points on an equipotential line is zero. Zero potential difference
+means points are at same potential.
 \subsection{Characteristics of Equipotential Surface/Line}
 Some properties related with equipotential line/surface are discussed as:
 \begin{enumerate}[label = (\roman*)]
@@ -1593,32 +1612,247 @@ across two points between which the potential difference is one volt.”}}
 We know that when a charge ‘q’ is moved up across a potential difference
 ‘$\Delta V$’, then the electric potential energy of the charge increases
 by an amount given as:
-\begin{equation}
+\begin{equation}\nonumber
   \Delta U = q\Delta V
 \end{equation}
 Also, when the same charge ‘q’ is allowed to move inside the electric
 field through the same potential difference $\Delta V$,
 it loses its potential energy and gains the kinetic energy i.e.
-\begin{equation}
+\begin{equation}\nonumber
   \Delta K.E = q\Delta V
 \end{equation}
 As by definition, when $q = 1e$ and $\Delta V = 1 V$, then:
-\begin{equation}
+\begin{equation}\nonumber
   \Delta K.E = 1\:eV
 \end{equation}
 \subsection*{Relationship with Joule}
-\begin{equation}
+\begin{equation}\nonumber
   1\:eV = 1.602\times 10^{-19}C \times 1 V
 \end{equation}
 which gives:
-\begin{equation}
+\begin{equation}\nonumber
   1\:eV = 1.602\times 10^{-19}\:J
 \end{equation}
 From above relation, it is clear that the electron volt (eV) is another
-unit of energy like joule. Its samll size is enough to be convenient for the energies of elementary particles.
+unit of energy like joule. Its small size is enough to be convenient for the energies of elementary particles.
 Its submultiples are:
 \begin{center}
 1 MeV = 10\textsuperscript{6} eV (million electron volts)\\
 1 GeV = 10\textsuperscript{9} eV (billion electron volts)
 \end{center}
+\section{Capacitor}
+\textit{\textbf{``A device used for storing electric charges is called capacitor.”}}
+or, \textit{\textbf{“A device in which electrical energy is stored."}}
+For example, the batteries in a camera store energy in the photoflash
+unit by charging a capcaitor. The batteries can supply energy at only a
+modest rate, too slowly for the photoflash unit to emit a flash of light.
+However, once the capacitor is charged, it can supply energy at a much
+greater rate when the photoflash unit is triggered\_\_\_enough energy to
+allow the unit to emit a burst of bright light. In this topic we
+will understand some basics related with capacitors
+including their charging discharging and their applications.
+\subsection*{Construction}
+Capacitors have many different forms.One form is parallel plate capacitor,
+which consists of two parallel metal plates, seperated by small distance.
+The medium between the plates is air or a sheet os some insulator.
+This medium is known as ‘dielectric’. Other forms include cylindrical
+and spherical capacitors. In electrical circuits,
+capacitors are denoted by ‘\capacitor{}’. This symbol is for parallel plate
+actually but in practice we denote the capacitor of any geometry by
+this symbol. The vertical lines represent the
+two conductors and parallel lines represent connection in circuit.
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.35\textwidth]{Images/capacitors.png}
+  \caption{An assortment of capacitors}
+  \label{fig:11.9}
+\end{figure}
+\subsection*{Charging of a Capacitor}
+The capacitor is commonly charged by connecting its plates for while to
+the opposite terminals of the battery. In this way, some of the electrons
+are transferred through the battery from the postive plate to the negative
+plate. Charge ‘+Q’ and ‘-Q’ appears on the plates. Mutual attraction between
+the charges keep them bound on the inner surfaces of the both plates and
+thus the charge remains stored in the capacitor even after the removal of
+the battery.
+\subsubsection{Mechanism of Charging}
+A battery is a device that maintains a certain potential difference
+between its terminals (points at which charge can enter or leave the battery)
+by means of internal electrochemical reactions in which electric forces
+can move internal charge (we will study this in detail in next chapter).
+To understand the process of charging, let us consider a capacitor C,
+connected in an electrical circuit through a battery and a switch ‘S’ as
+shown:
+
+
+The battery has two terminals positive terminal (+) at high potential and
+negative terminal (-) at low potential.The battery maintains a constant
+potential difference ‘V’ between its terminals. The circuit shown in figure
+above is said to be incomplete when the switch ‘S’ is open.
+When the switch is closed, electrically connecting those wires,
+the circuit is complete and the charge can then flow through the
+switch and the wires.When the circuit is completed,
+electrons are driven through the wires by an electric field that the
+battery sets up in the wires.The field drives electrons from left plate
+to the positive terminal of the battery, thus left plate, losing electrons,
+becomes positively charged. The field drives just as many electrons from
+the negative terminal of the battery to right plate, gaining electrons,
+becomes negatively charged.
+
+Initially,when the plates are uncharged, the potential difference between
+them is zero. As the plates become oppositely charged, that potential
+difference increases until it equals the potential difference of the
+battery.Then both the plates are at same potential, and there is no longer
+an electric field in the wire between them.
+Capacitor is then said to be fully charged.
+\subsection{Capacitance of the Capacitor}
+“The capability of a capacitor to store charges is called
+capacitance of that capacitor.”
+\subsubsection*{Explanation}
+As we know that if we increase the potential difference, the charge `Q' on
+the plates increases
+which increases the potential difference ‘V’ between the plates i.e.
+\begin{equation}\nonumber
+  Q \propto V
+\end{equation}
+And,
+\begin{mybox}{red}{}
+\begin{equation}\label{eq:11.68}
+  Q =  CV
+\end{equation}
+\end{mybox}
+Where `C' is the cinstant of propotionality and is constant for a
+particular capacitor and is
+called its capacitance, and is defined according to the equation below:
+\begin{mybox}{red}{}
+  \begin{equation}\label{eq:11.69}
+    C =  \frac{Q}{V}
+  \end{equation}
+  \end{mybox}
+Hence, \textit{\textbf{“The ratio of the magnitude of the charge on the either plate
+of the capacitor to the potential difference between the plates.”}}
+\begin{mybox}{green}{}
+\subsection*{Note:}
+We observed that charges ‘+q’ and ‘-q’ are present on the plates of the
+capacitor. It does not mean that net charge is zero. Whenever we talk
+about charge on a capacitor we should refer to charge on either plate.
+The picture becomes more obvious if we say net charge is absolute value
+of charge on either plate.
+\end{mybox}
+\begin{mybox}{blue}{}
+  \subsection*{Checkpoint 11.5:}
+  Does the capacitance of a capacitor C increase or decrease or remain
+  constant if :
+  \begin{enumerate}[label = (\alph*)]
+  \item The charge `q' on it is doubled
+  \item Potential difference across it is tripled
+  \end{enumerate}
+\end{mybox}
+
+\subsubsection*{Dependence of Capacitance}
+The capacitance of a capacitor depends upon:
+\begin{enumerate}[label = (\roman*)]
+\item Size of the capacitor
+\item Shape of the capacitor
+\item Seperation between the plates 
+\item Dielectric medium between them 
+\end{enumerate}
+\subsubsection{Unit of Capacitance}
+The unit of capacitance is coulomb/volt known as farad (F)
+in the honour of great physicist Michael Faraday.
+\subsubsection{One Farad}
+“A capacitor has a capacitance of one farad if a charge of one coulomb
+will give its plates a potential difference of one volt.”
+Convenient multiples are:
+\begin{center}
+  1 $\mu$F = 10\textsuperscript{-6} F, 1 pF = 10\textsuperscript{-12} F 
+\end{center}
+\subsection{Capacitance of a Parallel Plate Capacitor}
+\subsubsection{Parallel plate Capacitor}
+\textit{\textbf{“A capacitor having two parallel metal plates,
+whose size is greater than the distance between the plates,
+is called parallel plate capacitor.”}}
+\subsubsection{Mathematical Expression for Capacitance}
+Let us consider a parallel plate capacitor of capacitance ‘C’,
+plates area ‘A’ and distance between the plates ‘d’. Let us charge the
+capacitor to ‘Q’. As a result, a potential difference ‘V’
+is created between the plates. 
+As we know from previous sections:
+\begin{equation}\label{eq:11.70}
+  V = Ed
+\end{equation}
+And surface charge density `$\sigma$' is given by:
+\begin{equation}\nonumber
+  \sigma = \frac{Q}{A}
+\end{equation}
+As we considered capacitors plate of infinite length, so 
+electric field will be uniform between the plates and is given by:
+\begin{equation}\nonumber
+  E = \frac{\sigma}{\epsilon_{o}}
+\end{equation}
+Putting value of $\sigma$, we get:
+\begin{equation}\nonumber
+  E = \frac{Q}{\epsilon_{o}A}
+\end{equation}
+Putting value of E in equation \ref{eq:11.70} we get:
+\begin{equation}\label{eq:11.71}
+  V = \frac{Qd}{\epsilon_{o}A}
+\end{equation}
+As we know from equation \ref{eq:11.69}:
+\begin{equation}\nonumber
+  C =  \frac{Q}{V}
+\end{equation}
+Putting value of `V' from equation \ref{eq:11.71}, 
+\begin{equation}\nonumber
+  C =  \frac{Q\epsilon_{o}A}{Qd}
+\end{equation}
+which gives us the value of capacitance,
+hence we can write:
+\begin{mybox}{red}{}
+  \begin{equation}\label{eq:11.72}
+    C =  \frac{A\epsilon_{o}}{d}
+  \end{equation}
+\end{mybox}
+\noindent From here, it is found that capacitance of a parallel plate capacitor is:
+\begin{enumerate}[label = (\alph*)]
+\item Directly propotional to the area A of the plates.Larger the area for a
+given seperation between the plates of a capacitor placed in vacuum,
+larger will be the ability to store charges, hence larger will be
+the capacitance.
+\item Inversly related with seperation of plates.Smaller will be the seperation
+for a capacitor of fixed plate area,the more will be the ability of that
+capacitor to hold on charges over the plates,
+thereby increasing capacitance.
+\end{enumerate}
+Above equation is for capacitance of a parallel plate capacitor
+when the medium is free space or air or vacuum, so we can write:
+\begin{mybox}{red}{}
+\begin{equation}\label{eq:11.73}
+  C_{vac} =  \frac{A\epsilon_{o}}{d}
+\end{equation}
+\end{mybox}
+If instead of vacuum, if there is placed a dielectric medium of relative
+permittivity or dielectric constant ‘$\epsilon_{r}$’ between the plates
+of a parallel plate capacitor,
+then capacitance will increase by a factor of ‘$\epsilon_{r}$’, and will be given by:
+\begin{mybox}{red}{}
+\begin{equation}\label{eq:11.74}
+  C_{med}=  \frac{A\epsilon_{o}\epsilon_{r}}{d}
+\end{equation}
+\end{mybox}
+From above equation,  it is also clear that a capacitor with a medium of high dielectric constant will have a large capacitance than the case when the same capacitor is placed in a medium of relatively low dielectric constant.
+Now taking ratio of equations \ref{eq:11.74} \& \ref{eq:11.73}, we get:
+\begin{mybox}{red}{}
+\begin{equation}
+  \epsilon_{r} = \frac{C_{med}}{C_{vac}}
+\end{equation}
+\end{mybox}
+This equation tells us that when a dielectric medium is introduced between
+the plates of capacitor, then the capacitance of that capacitor increases
+by a factor of ‘$\epsilon_{r}$’, and the above equation also provides us
+with another definition of relative permittivity or dielectric constant or
+specific inductive capacity:
+\textit{\textbf{“The ratio of the capacitance of a capacitor with a given material filling
+the space between the conductors to the capacitance of the same capacitor
+when the space is evacuated is the relative permittivity of the material.”}}

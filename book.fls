@@ -277,6 +277,10 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\environ\environ.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\scalerel\scalerel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\scalerel\scalerel.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty
 INPUT g:\Keybook\Physics\Volume II\book.aux
 INPUT g:\Keybook\Physics\Volume II\book.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-11\Chapter-11.aux
@@ -285,20 +289,20 @@ INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-14.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-14.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-15.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-15.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-16.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-16.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-17.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-17.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-18.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-18.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-19.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-19.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-20.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-20.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-16\Chapter-16.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-16\Chapter-16.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-17\Chapter-17.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-17\Chapter-17.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-18\Chapter-18.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-18\Chapter-18.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-19\Chapter-19.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-19\Chapter-19.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-20\Chapter-20.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-20\Chapter-20.aux
 OUTPUT g:\Keybook\Physics\Volume II\book.aux
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr.fd
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\cbfonts-fd\lgrcmr.fd
@@ -424,6 +428,17 @@ INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
 INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
 INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
 INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
+INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
+INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
+INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
+INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.tex
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.tex
@@ -433,13 +448,19 @@ INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.tex
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cbgreek\grxi1200.tfm
-OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-14.aux
-OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-15.aux
-OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-16.aux
-OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-17.aux
-OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-18.aux
-OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-19.aux
-OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-20.aux
+OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.tex
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.tex
+OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.tex
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.tex
+OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-16\Chapter-16.aux
+OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-17\Chapter-17.aux
+OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-18\Chapter-18.aux
+OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-19\Chapter-19.aux
+OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-20\Chapter-20.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-20\Chapter-20.tex
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-20\Chapter-20.tex
 INPUT g:\Keybook\Physics\Volume II\book.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-11\Chapter-11.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-11\Chapter-11.aux
@@ -447,20 +468,20 @@ INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-14.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-14.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-15.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-15.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-16.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-16.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-17.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-17.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-18.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-18.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-19.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-19.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-20.aux
-INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-20.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-16\Chapter-16.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-16\Chapter-16.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-17\Chapter-17.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-17\Chapter-17.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-18\Chapter-18.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-18\Chapter-18.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-19\Chapter-19.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-19\Chapter-19.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-20\Chapter-20.aux
+INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-20\Chapter-20.aux
 INPUT g:\Keybook\Physics\Volume II\book.out
 INPUT g:\Keybook\Physics\Volume II\book.out
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb

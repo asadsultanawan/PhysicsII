@@ -13,7 +13,7 @@
 \contentsline {subsubsection}{Multiples}{6}{section*.18}%
 \contentsline {subsection}{\numberline {11.2.3}Coloumb's Law and Newton's Third Law}{6}{subsection.11.2.3}%
 \contentsline {subsection}{\numberline {11.2.4}Principle of Superposition}{7}{subsection.11.2.4}%
-\contentsline {section}{\numberline {11.3}Electric Field and Electric Field Intensity}{8}{section.11.3}%
+\contentsline {section}{\numberline {11.3}Electric Field and Electric Field Intensity}{7}{section.11.3}%
 \contentsline {subsection}{\numberline {11.3.1}Field Intensity due to a Point Charge}{9}{subsection.11.3.1}%
 \contentsline {subsection}{\numberline {11.3.2}Electric Lines of Force/Electric Field Lines}{9}{subsection.11.3.2}%
 \contentsline {subsubsection}{Definition}{10}{section*.30}%
@@ -30,11 +30,11 @@
 \contentsline {paragraph}{Production of Uniform Electric Field:}{13}{section*.43}%
 \contentsline {section}{\numberline {11.4}Electric Flux}{13}{section.11.4}%
 \contentsline {subsection}{\numberline {11.4.1}Flux Through an Arbitary Shaped Body}{15}{subsection.11.4.1}%
-\contentsline {subsection}{\numberline {11.4.2}Flux through a closed Arbitrary Surface}{15}{subsection.11.4.2}%
+\contentsline {subsection}{\numberline {11.4.2}Flux through a closed Arbitrary Surface}{16}{subsection.11.4.2}%
 \contentsline {section}{\numberline {11.5}Gauss\IeC {\textquoteright }s Law}{16}{section.11.5}%
 \contentsline {subsection}{\numberline {11.5.1}Electric Flux due to Many Charges}{18}{subsection.11.5.1}%
 \contentsline {subsection}{\numberline {11.5.2}Applications of Gauss\IeC {\textquoteright }s Law}{19}{subsection.11.5.2}%
-\contentsline {subsubsection}{Absence of Electric Field and Charge Inside a Condctor and Location of Excess Charge on a Conductor}{19}{section*.56}%
+\contentsline {subsubsection}{Absence of Electric Field and Charge Inside a Condctor and Location of Excess Charge on a Conductor}{20}{section*.56}%
 \contentsline {subsubsection}{Electric Field Intensity due to a Charged Conducting Spherical Shell}{20}{section*.57}%
 \contentsline {paragraph}{Shell:}{20}{section*.58}%
 \contentsline {paragraph}{Calculation of Electric Field:}{20}{section*.59}%
@@ -42,7 +42,7 @@
 \contentsline {paragraph}{Field at the Exterior:}{21}{section*.61}%
 \contentsline {paragraph}{Conclusion:}{21}{section*.62}%
 \contentsline {subsubsection}{Distribution of electric Charge on a Hollow Conductor having a Charge in its Cavity}{21}{section*.63}%
-\contentsline {paragraph}{Case 1: The Hollow Conductor is Uncharged:}{21}{section*.64}%
+\contentsline {paragraph}{Case 1: The Hollow Conductor is Uncharged:}{22}{section*.64}%
 \contentsline {paragraph}{Case 2: When the Hollow Conductor is Already Charged}{22}{section*.65}%
 \contentsline {subsubsection}{Electric Field Intensity due to an Infinite Sheet of Charge}{22}{section*.66}%
 \contentsline {paragraph}{Definition of Infinite sheet:}{22}{section*.67}%
@@ -55,46 +55,57 @@
 \contentsline {subsubsection}{Definition}{26}{section*.75}%
 \contentsline {subsubsection}{Mathematical Derivation}{26}{section*.76}%
 \contentsline {paragraph}{Note:}{29}{section*.77}%
-\contentsline {section}{\numberline {11.7}Potential Gradient and Electric Field Intensity}{29}{section.11.7}%
+\contentsline {section}{\numberline {11.7}Potential Gradient and Electric Field Intensity}{30}{section.11.7}%
 \contentsline {section}{\numberline {11.8}Equipotential Surface/Equipotential Line}{31}{section.11.8}%
-\contentsline {subsection}{\numberline {11.8.1}Characteristics of Equipotential Surface/Line}{31}{subsection.11.8.1}%
+\contentsline {subsection}{\numberline {11.8.1}Characteristics of Equipotential Surface/Line}{32}{subsection.11.8.1}%
 \contentsline {section}{\numberline {11.9}The Electron-Volt}{32}{section.11.9}%
-\contentsline {chapter}{\numberline {12}Electrodynamics/Current Electricity}{34}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Electric Current}{34}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Drift Velocity of Electrons in a Metallic Conductor}{35}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Sources of Current}{36}{section.12.3}%
-\contentsline {section}{\numberline {12.4}Elecroencephalogram(EEG)}{36}{section.12.4}%
-\contentsline {section}{\numberline {12.5}Ohm's Law}{36}{section.12.5}%
-\contentsline {section}{\numberline {12.6}I-V characteristics for Ohmic and Non-ohmic materials}{37}{section.12.6}%
-\contentsline {chapter}{\numberline {13}Electromagnetism}{38}{chapter.13}%
-\contentsline {section}{\numberline {13.1}History}{38}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Definition of Electromagnetism}{38}{section.13.2}%
-\contentsline {section}{\numberline {13.3}Magnetic Field}{38}{section.13.3}%
-\contentsline {subsection}{\numberline {13.3.1}Forces of Magnets}{39}{subsection.13.3.1}%
-\contentsline {subsection}{\numberline {13.3.2}Magnetic Field Lines}{39}{subsection.13.3.2}%
-\contentsline {subsubsection}{Properties of Field Lines}{39}{section*.99}%
-\contentsline {subsection}{\numberline {13.3.3}Magnetic Field of an Electric current}{39}{subsection.13.3.3}%
-\contentsline {subsubsection}{Magnetic field of a Straight Current Carrying Wire}{39}{section*.100}%
-\contentsline {section}{\numberline {13.4}Force on a current carrying conductor}{40}{section.13.4}%
-\contentsline {subsection}{\numberline {13.4.1}Magnitude of Force}{40}{subsection.13.4.1}%
-\contentsline {subsubsection}{Generalized Form}{41}{section*.101}%
-\contentsline {subsubsection}{Fleming's Left-Hand Rule}{41}{section*.102}%
-\contentsline {subsubsection}{Definition of $\vec {B}$}{41}{section*.103}%
-\contentsline {subsubsection}{Direction of $\vec {B}$}{41}{section*.104}%
-\contentsline {subsubsection}{Magnitude of $\vec {B}$}{41}{section*.105}%
-\contentsline {subsection}{\numberline {13.4.2}Unit of Magnetic Field}{42}{subsection.13.4.2}%
-\contentsline {subsubsection}{One tesla}{42}{section*.106}%
-\contentsline {subsubsection}{Other units}{42}{section*.107}%
-\contentsline {section}{\numberline {13.5}Magnetic Flux}{42}{section.13.5}%
-\contentsline {paragraph}{Symbol:}{42}{section*.108}%
-\contentsline {subsection}{\numberline {13.5.1}Mathematical Form}{42}{subsection.13.5.1}%
-\contentsline {subsection}{\numberline {13.5.2}Explanation}{42}{subsection.13.5.2}%
-\contentsline {subsection}{\numberline {13.5.3}Maximum Flux}{43}{subsection.13.5.3}%
-\contentsline {subsection}{\numberline {13.5.4}Minimum Flux}{43}{subsection.13.5.4}%
-\contentsline {subsection}{\numberline {13.5.5}Unit}{43}{subsection.13.5.5}%
-\contentsline {subsection}{\numberline {13.5.6}Magnetic Flux Density}{43}{subsection.13.5.6}%
-\contentsline {section}{\numberline {13.6}Ampere\IeC {\textquoteright }s Circuital Law}{43}{section.13.6}%
-\contentsline {subsection}{\numberline {13.6.1}Background}{44}{subsection.13.6.1}%
-\contentsline {subsection}{\numberline {13.6.2}Statement}{44}{subsection.13.6.2}%
-\contentsline {subsection}{\numberline {13.6.3}Mathematically}{44}{subsection.13.6.3}%
-\contentsline {subsection}{\numberline {13.6.4}Explanation}{44}{subsection.13.6.4}%
+\contentsline {section}{\numberline {11.10}Capacitor}{33}{section.11.10}%
+\contentsline {subsubsection}{Mechanism of Charging}{34}{section*.90}%
+\contentsline {subsection}{\numberline {11.10.1}Capacitance of the Capacitor}{35}{subsection.11.10.1}%
+\contentsline {subsubsection}{Unit of Capacitance}{36}{section*.95}%
+\contentsline {subsubsection}{One Farad}{36}{section*.96}%
+\contentsline {subsection}{\numberline {11.10.2}Capacitance of a Parallel Plate Capacitor}{36}{subsection.11.10.2}%
+\contentsline {subsubsection}{Parallel plate Capacitor}{36}{section*.97}%
+\contentsline {subsubsection}{Mathematical Expression for Capacitance}{36}{section*.98}%
+\contentsline {chapter}{\numberline {12}Electrodynamics/Current Electricity}{38}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Electric Current}{38}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Drift Velocity of Electrons in a Metallic Conductor}{39}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Sources of Current}{40}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Elecroencephalogram(EEG)}{40}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Ohm's Law}{40}{section.12.5}%
+\contentsline {section}{\numberline {12.6}I-V characteristics for Ohmic and Non-ohmic materials}{41}{section.12.6}%
+\contentsline {chapter}{\numberline {13}Electromagnetism}{42}{chapter.13}%
+\contentsline {section}{\numberline {13.1}History}{42}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Definition of Electromagnetism}{42}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Magnetic Field}{42}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}Forces of Magnets}{43}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}Magnetic Field Lines}{43}{subsection.13.3.2}%
+\contentsline {subsubsection}{Properties of Field Lines}{43}{section*.111}%
+\contentsline {subsection}{\numberline {13.3.3}Magnetic Field of an Electric current}{43}{subsection.13.3.3}%
+\contentsline {subsubsection}{Magnetic field of a Straight Current Carrying Wire}{43}{section*.112}%
+\contentsline {section}{\numberline {13.4}Force on a current carrying conductor}{44}{section.13.4}%
+\contentsline {subsection}{\numberline {13.4.1}Magnitude of Force}{44}{subsection.13.4.1}%
+\contentsline {subsubsection}{Generalized Form}{45}{section*.113}%
+\contentsline {subsubsection}{Fleming's Left-Hand Rule}{45}{section*.114}%
+\contentsline {subsubsection}{Definition of $\vec {B}$}{45}{section*.115}%
+\contentsline {subsubsection}{Direction of $\vec {B}$}{45}{section*.116}%
+\contentsline {subsubsection}{Magnitude of $\vec {B}$}{45}{section*.117}%
+\contentsline {subsection}{\numberline {13.4.2}Unit of Magnetic Field}{46}{subsection.13.4.2}%
+\contentsline {subsubsection}{One tesla}{46}{section*.118}%
+\contentsline {subsubsection}{Other units}{46}{section*.119}%
+\contentsline {section}{\numberline {13.5}Magnetic Flux}{46}{section.13.5}%
+\contentsline {paragraph}{Symbol:}{46}{section*.120}%
+\contentsline {subsection}{\numberline {13.5.1}Mathematical Form}{46}{subsection.13.5.1}%
+\contentsline {subsection}{\numberline {13.5.2}Explanation}{46}{subsection.13.5.2}%
+\contentsline {subsection}{\numberline {13.5.3}Maximum Flux}{47}{subsection.13.5.3}%
+\contentsline {subsection}{\numberline {13.5.4}Minimum Flux}{47}{subsection.13.5.4}%
+\contentsline {subsection}{\numberline {13.5.5}Unit}{47}{subsection.13.5.5}%
+\contentsline {subsection}{\numberline {13.5.6}Magnetic Flux Density}{47}{subsection.13.5.6}%
+\contentsline {section}{\numberline {13.6}Ampere\IeC {\textquoteright }s Circuital Law}{47}{section.13.6}%
+\contentsline {subsection}{\numberline {13.6.1}Background}{48}{subsection.13.6.1}%
+\contentsline {subsection}{\numberline {13.6.2}Statement}{48}{subsection.13.6.2}%
+\contentsline {subsection}{\numberline {13.6.3}Mathematically}{48}{subsection.13.6.3}%
+\contentsline {subsection}{\numberline {13.6.4}Explanation}{48}{subsection.13.6.4}%
+\contentsline {chapter}{\numberline {14}Electromagnetic Induction}{49}{chapter.14}%
+\contentsline {chapter}{\numberline {15}AC Circuits}{50}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Nuclear Physics}{51}{chapter.16}%

@@ -23,32 +23,38 @@
 \BOOKMARK [1][-]{section.11.8}{11.8 Equipotential Surface/Equipotential Line}{chapter.11}% 23
 \BOOKMARK [2][-]{subsection.11.8.1}{11.8.1 Characteristics of Equipotential Surface/Line}{section.11.8}% 24
 \BOOKMARK [1][-]{section.11.9}{11.9 The Electron-Volt}{chapter.11}% 25
-\BOOKMARK [0][-]{chapter.12}{12 Electrodynamics/Current Electricity}{}% 26
-\BOOKMARK [1][-]{section.12.1}{12.1 Electric Current}{chapter.12}% 27
-\BOOKMARK [1][-]{section.12.2}{12.2 Drift Velocity of Electrons in a Metallic Conductor}{chapter.12}% 28
-\BOOKMARK [1][-]{section.12.3}{12.3 Sources of Current}{chapter.12}% 29
-\BOOKMARK [1][-]{section.12.4}{12.4 Elecroencephalogram\(EEG\)}{chapter.12}% 30
-\BOOKMARK [1][-]{section.12.5}{12.5 Ohm's Law}{chapter.12}% 31
-\BOOKMARK [1][-]{section.12.6}{12.6 I-V characteristics for Ohmic and Non-ohmic materials}{chapter.12}% 32
-\BOOKMARK [0][-]{chapter.13}{13 Electromagnetism}{}% 33
-\BOOKMARK [1][-]{section.13.1}{13.1 History}{chapter.13}% 34
-\BOOKMARK [1][-]{section.13.2}{13.2 Definition of Electromagnetism}{chapter.13}% 35
-\BOOKMARK [1][-]{section.13.3}{13.3 Magnetic Field}{chapter.13}% 36
-\BOOKMARK [2][-]{subsection.13.3.1}{13.3.1 Forces of Magnets}{section.13.3}% 37
-\BOOKMARK [2][-]{subsection.13.3.2}{13.3.2 Magnetic Field Lines}{section.13.3}% 38
-\BOOKMARK [2][-]{subsection.13.3.3}{13.3.3 Magnetic Field of an Electric current}{section.13.3}% 39
-\BOOKMARK [1][-]{section.13.4}{13.4 Force on a current carrying conductor}{chapter.13}% 40
-\BOOKMARK [2][-]{subsection.13.4.1}{13.4.1 Magnitude of Force}{section.13.4}% 41
-\BOOKMARK [2][-]{subsection.13.4.2}{13.4.2 Unit of Magnetic Field}{section.13.4}% 42
-\BOOKMARK [1][-]{section.13.5}{13.5 Magnetic Flux}{chapter.13}% 43
-\BOOKMARK [2][-]{subsection.13.5.1}{13.5.1 Mathematical Form}{section.13.5}% 44
-\BOOKMARK [2][-]{subsection.13.5.2}{13.5.2 Explanation}{section.13.5}% 45
-\BOOKMARK [2][-]{subsection.13.5.3}{13.5.3 Maximum Flux}{section.13.5}% 46
-\BOOKMARK [2][-]{subsection.13.5.4}{13.5.4 Minimum Flux}{section.13.5}% 47
-\BOOKMARK [2][-]{subsection.13.5.5}{13.5.5 Unit}{section.13.5}% 48
-\BOOKMARK [2][-]{subsection.13.5.6}{13.5.6 Magnetic Flux Density}{section.13.5}% 49
-\BOOKMARK [1][-]{section.13.6}{13.6 Ampere\220s Circuital Law}{chapter.13}% 50
-\BOOKMARK [2][-]{subsection.13.6.1}{13.6.1 Background}{section.13.6}% 51
-\BOOKMARK [2][-]{subsection.13.6.2}{13.6.2 Statement}{section.13.6}% 52
-\BOOKMARK [2][-]{subsection.13.6.3}{13.6.3 Mathematically}{section.13.6}% 53
-\BOOKMARK [2][-]{subsection.13.6.4}{13.6.4 Explanation}{section.13.6}% 54
+\BOOKMARK [1][-]{section.11.10}{11.10 Capacitor}{chapter.11}% 26
+\BOOKMARK [2][-]{subsection.11.10.1}{11.10.1 Capacitance of the Capacitor}{section.11.10}% 27
+\BOOKMARK [2][-]{subsection.11.10.2}{11.10.2 Capacitance of a Parallel Plate Capacitor}{section.11.10}% 28
+\BOOKMARK [0][-]{chapter.12}{12 Electrodynamics/Current Electricity}{}% 29
+\BOOKMARK [1][-]{section.12.1}{12.1 Electric Current}{chapter.12}% 30
+\BOOKMARK [1][-]{section.12.2}{12.2 Drift Velocity of Electrons in a Metallic Conductor}{chapter.12}% 31
+\BOOKMARK [1][-]{section.12.3}{12.3 Sources of Current}{chapter.12}% 32
+\BOOKMARK [1][-]{section.12.4}{12.4 Elecroencephalogram\(EEG\)}{chapter.12}% 33
+\BOOKMARK [1][-]{section.12.5}{12.5 Ohm's Law}{chapter.12}% 34
+\BOOKMARK [1][-]{section.12.6}{12.6 I-V characteristics for Ohmic and Non-ohmic materials}{chapter.12}% 35
+\BOOKMARK [0][-]{chapter.13}{13 Electromagnetism}{}% 36
+\BOOKMARK [1][-]{section.13.1}{13.1 History}{chapter.13}% 37
+\BOOKMARK [1][-]{section.13.2}{13.2 Definition of Electromagnetism}{chapter.13}% 38
+\BOOKMARK [1][-]{section.13.3}{13.3 Magnetic Field}{chapter.13}% 39
+\BOOKMARK [2][-]{subsection.13.3.1}{13.3.1 Forces of Magnets}{section.13.3}% 40
+\BOOKMARK [2][-]{subsection.13.3.2}{13.3.2 Magnetic Field Lines}{section.13.3}% 41
+\BOOKMARK [2][-]{subsection.13.3.3}{13.3.3 Magnetic Field of an Electric current}{section.13.3}% 42
+\BOOKMARK [1][-]{section.13.4}{13.4 Force on a current carrying conductor}{chapter.13}% 43
+\BOOKMARK [2][-]{subsection.13.4.1}{13.4.1 Magnitude of Force}{section.13.4}% 44
+\BOOKMARK [2][-]{subsection.13.4.2}{13.4.2 Unit of Magnetic Field}{section.13.4}% 45
+\BOOKMARK [1][-]{section.13.5}{13.5 Magnetic Flux}{chapter.13}% 46
+\BOOKMARK [2][-]{subsection.13.5.1}{13.5.1 Mathematical Form}{section.13.5}% 47
+\BOOKMARK [2][-]{subsection.13.5.2}{13.5.2 Explanation}{section.13.5}% 48
+\BOOKMARK [2][-]{subsection.13.5.3}{13.5.3 Maximum Flux}{section.13.5}% 49
+\BOOKMARK [2][-]{subsection.13.5.4}{13.5.4 Minimum Flux}{section.13.5}% 50
+\BOOKMARK [2][-]{subsection.13.5.5}{13.5.5 Unit}{section.13.5}% 51
+\BOOKMARK [2][-]{subsection.13.5.6}{13.5.6 Magnetic Flux Density}{section.13.5}% 52
+\BOOKMARK [1][-]{section.13.6}{13.6 Ampere\220s Circuital Law}{chapter.13}% 53
+\BOOKMARK [2][-]{subsection.13.6.1}{13.6.1 Background}{section.13.6}% 54
+\BOOKMARK [2][-]{subsection.13.6.2}{13.6.2 Statement}{section.13.6}% 55
+\BOOKMARK [2][-]{subsection.13.6.3}{13.6.3 Mathematically}{section.13.6}% 56
+\BOOKMARK [2][-]{subsection.13.6.4}{13.6.4 Explanation}{section.13.6}% 57
+\BOOKMARK [0][-]{chapter.14}{14 Electromagnetic Induction}{}% 58
+\BOOKMARK [0][-]{chapter.15}{15 AC Circuits}{}% 59
+\BOOKMARK [0][-]{chapter.16}{16 Nuclear Physics}{}% 60
