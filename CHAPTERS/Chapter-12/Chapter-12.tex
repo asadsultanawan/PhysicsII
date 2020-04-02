@@ -1,4 +1,5 @@
 \chapter{Electrodynamics/Current Electricity}
+\label{12}
 \section{Electric Current}
 \textit{\textbf{“The flow of charge per unit time is called electric current”.}}
 \begin{center}
@@ -24,7 +25,7 @@ When we talk about electric current, we often study the behaviour of metallic co
 From now, we will take the direction of current as conventional direction 
 i.e. from positive end to negative end.
 \section{Drift Velocity of Electrons in a Metallic Conductor}
-Every metal has a huge number of free electrons which wander randomly within the body of the conductor. The average speed of free electrons is sufficiently high, approximately of the order of 10\textsuperscript{5} m/s. During random motion,
+Every metal has a huge number of free electrons which wander randomly within the body of the conductor. The average speed of free electrons is sufficiently high, approximately of the order of $10^{5}$ m/s. During random motion,
 the free electrons collide with the atoms of conductor again and again and after each collision,  their direction of motion changes. As many electrons move in one direction, as much electrons move in opposite direction. So due to random motion, there is no net flow of charges  in a particular direction, so no current exists in the case when no power supply is connected.
 \subsection*{Motion of Charges When the Potential Difference is Applied}
 When a potential difference is applied across the ends of a conductor, it sets up an electric field at every point along the wire. As inside the conductor, there are free charges (free electrons in case of metallic conductors), so electrons experience a force in a direction opposite to the electric field given by:
@@ -45,9 +46,9 @@ This net force is actually the force exerted on electrons by the electric field,
 %Figure
 So,direction of acceleration is in a direction opposite to electric field.As electrons move along the wire, they continuously collide with atoms, and due to the force by electric field, they acquire a net velocity along a direction, this velocity is called drift velocity and is defined as, \textit{\textbf{``the average velocity with which free electrons get drifted in a metallic conductor under the influence of electric field is called drift velocity."}} Symbolically, the drift velocity is denoted by $\vec{V_{d}}$.
 \subsection*{Order of Drift Velocity}
-The drift velocity of electrons in a metallic conductor is of the order of 10\textsuperscript{-5} m/s.
+The drift velocity of electrons in a metallic conductor is of the order of $10^{-5}$ m/s.
 \subsection*{Effect Transfer}
-As drift velocity of electrons is of the order of 10\textsuperscript{-5} m/s but when we switch on the bulb,it immediately glows. Although the drift velocity is negligible but the effect of electrons movement travel around the circuit with a speed approximately equal to the speed of light that is of the order of 10\textsuperscript{8} m/s. That’s why, when we switch on the bulb, the bulb glows in fractions of a second.
+As drift velocity of electrons is of the order of $10^{-5}$ m/s but when we switch on the bulb,it immediately glows. Although the drift velocity is negligible but the effect of electrons movement travel around the circuit with a speed approximately equal to the speed of light that is of the order of $10^{8}$ m/s. That’s why, when we switch on the bulb, the bulb glows in fractions of a second.
 \section{Sources of Current}
 \textit{\textbf{``A device that supply a constant current by maintaining a constant potential difference between its two terminals is called a source of current.”}}
 \subsection*{Explanation}
@@ -57,14 +58,14 @@ It is a firmly established convention that a positively charged body is at highe
 
 The current will stop when both the bodies come at the same potential. To maintain a steady current through the wire, the ends of the wire must be maintained at a constant potential difference. So, a device or agent must be present that will maintain the required potential difference. This device will convert some other forms of energy into electrical energy. Such a device is called a ‘power supply’ (or source of emf, we will talk about emf in this chapter). Examples are:
 \begin{enumerate}[label=(\roman*)] 
-    \item In electrical cells,chemical energy is converted into electrical energy.
+    \item In electrical cells, chemical energy is converted into electrical energy.
     Similar is the principle of battery.
     \item Electric generator convert mechanical energy
     into electrical energy (we will talk about it in chapter 14).
     \item Thermocouple convert heat energy into light energy
     (we will discuss thermocouple in this chapter).
     \item Solar cells convert light energy int electrical
-    energy (we will encounter solar cell in chapter 17).
+    energy (we will encounter solar cell in chapter \ref{17}).
 \end{enumerate}
 
 \section{Elecroencephalogram(EEG)}
@@ -89,17 +90,356 @@ When potential difference ‘V’ is maintained in the circuit, current ‘I’ 
     I = \frac{1}{R}\: V \nonumber
 \end{equation}
 which implies:
+\begin{mybox}{red}{}
 \begin{equation}\label{eq:12.5}
-\color{blue}\boxed{V = IR}
+V = IR
 \end{equation}
+\end{mybox}
 where, `R’ is a constant and called as resistance of wire and it depends upon:
 \begin{enumerate}[label=(\roman*)] 
 \item Nature of material of the wire
 \item Physical state of the material
 \item Dimensions of the wire
 \end{enumerate}
- The above equation is the mathematical form of Ohm’s law.
- \subsection*{Validity}
- Ohm’s law is valid only for metallic conductors. It does not hold for electron tubes, discharge through gaseous, filament of bulb etc. Those materials which obey Ohm’s law are called ohmic materials while those which do not are termed as non-ohmic.
- \section{I-V characteristics for Ohmic and Non-ohmic materials}
+The above equation is the mathematical form of Ohm’s law.
+\subsection*{Validity}
+Ohm’s law is valid only for metallic conductors. It does not hold
+for electron tubes, discharge through gaseous, filament of bulb
+etc. Those materials which obey Ohm’s law are called ohmic
+materials while those which do not are termed as non-ohmic.
+\subsection{I-V Characteristics for Ohmic and Non-ohmic Materials}
+\textit{\textbf{``The curves which are drawn between current and
+voltage for the  given materials are called I-V characteristics.”}}
+We will discuss here separately for ohmic and non-ohmic conductors.
+\subsubsection{Ohmic Conductors}
+From Ohm’s law, we know that:
+\begin{equation}\nonumber
+{V=IR}
+\end{equation}
+\begin{equation}\nonumber
+\frac{1}{V} = \frac{1}{R}
+\end{equation}
+So a graph between `I' and `V' will have a slope `1/R’. From Ohm’s law, ‘R’
+is constant if the physical conditions are kept fixed, then it is obvious
+that ‘1/R’ will also be a constant i.e. I-V graph will have a constant slope. So the graph will be a straight line passing through the origin as shown:  
+%figure
  
+\subsubsection{Non-ohmic Conductors}
+The I-V graphs for non-ohmic conductors are discussed as:
+
+\paragraph{Filament of an Electric Bulb:}
+The I-V graph for a filament lamp is shown in the figure below:
+%figure
+
+The graph bends over as ‘V’ and ‘I’ increases. This shows that a given change of ‘V’ causes a smaller change in ‘I’ at larger values of ‘V’. This means that the slope decreases with the increase of voltage. As ‘1/R’ indicates the slope, hence resistance will increase as the current raises the temperature of the filament.
+\paragraph{Thermistor:}
+Thermistor is a ‘thermoresistor’. The graph for a thermistor is shown as:
+%figure
+
+It is clear that graph bends upward. Slope increases, hence resistance decreases sharply as the temperature rises. Thermistors are made up of semiconductor materials.
+\paragraph{Semiconductor Diode:}
+The I-V graph for a semiconductor diode is shown as:
+%figure
+
+The graph is a non-linear curve, hence, non-ohmic. If the voltage is reversed, the current is nearly zero. It conducts in one direction only.
+
+\paragraph{Other Examples of Non-ohmic Materials:}
+Electron-vacuum tubes,electric arcs, neon gas and liquid electrolytes are some other examples of non-ohmic materials; disobeying Ohm’s law.
+\section{Electrical Resistance}
+\textit{\textbf{``The opposition offered by a substance to the flow of electric current is called electrical resistance.”}}
+\subsection*{Explanation}
+As an example, let us consider a metallic conductor. We know that in metals, current is due to the flow of electrons. It is also known that inside the metallic bulk, positively charged centres are at fixed positions. They vibrate about their mean positions with a certain amplitude of vibration. When electrons move, they collide with the positive charged metal ions, due to which there is a reduction in their flow. So when the flow is reduced, we say that an intrinsic electrical resistance is present in every substance.
+\subsection*{Symbol}
+Symbolically it is denoted by ‘R’. In electrical circuits, it is represented as
+`\resistor{}'.
+\subsection*{Mathematical Form}
+From Ohm’s law, keeping the physical conditions same, the ratio of voltage applied to the current flown is constant i.e.
+\begin{equation}\nonumber
+\frac{V}{I} = constant
+\end{equation}
+This constant is called resistance.
+\begin{mybox}{red}{}
+\begin{equation}\label{eq:12.6}
+    R = \frac{V}{I}
+ \end{equation}
+\end{mybox}
+\noindent So we can also define resistance as 
+\textit{\textbf{``the ratio of voltage applied across the ends of a conductor to the current flowing through the conductor.”}}
+\subsection*{Dependence}
+Resistance of a material depends upon:
+\begin{enumerate}[label=(\roman*)] 
+ \item Nature of material of the conductor
+ \item Physical state of the conductor
+ \item Dimensions of the conductor
+ \end{enumerate}
+ \subsection*{Unit of Resistance}
+ The S.I unit of resistance is ohm symbolized as $\Omega$
+ (capital Greek alphabet omega), in regard of great scientist Simon Ohm.
+\subsubsection{One Ohm}
+\textit{\textbf{``The resistance of a wire is said to be one ohm,when one volt potential difference across the two ends of wire causes a current of one ampere to flow through it.”}}
+\subsubsection{Multiples}
+\begin{center}
+    1 k$\Omega = 10^{3} \Omega$
+    1 M$\Omega = 10^{6} \Omega$ 
+\end{center}
+\subsection{Specific Resistance/Resistivity}
+ As we know that resistance is the opposition offered by a material to the flow of current.During the collisions, electrons in a metal lose energy. It has been experimentally observed that electrons lose more energy while moving along a longer path while keeping the cross-sectional area constant, and less will be the resistance if we increase the cross-sectional area of a wire of given length, hence,
+ \begin{equation}\nonumber
+     R\propto L
+ \end{equation}
+\begin{equation}\nonumber
+     R\propto \frac{1}{A}    
+\end{equation}
+Introducing constant of proportionality:
+\begin{mybox}{red}{}
+\begin{equation}\label{eq:12.7}
+     R=\rho\frac{L}{A}
+\end{equation}
+\end{mybox}
+\noindent where, Greek alphabet ‘$\rho$’ (Rho) is called specific
+resistance or resistivity and it depends upon:
+\begin{enumerate}[label=(\roman*)] 
+\item Nature of the material of the wire
+\item Temperature of the material
+\end{enumerate}
+An important point to be remembered is that,
+\textit{\textbf{``Resistance is a property of a particular wire but resistivity is a property of a particular material.”}}
+Now if we put $A = 1\:m^{2},\:L=1\:m$ in equation \ref{eq:12.7}, we get:
+\begin{equation}
+    R = \rho \nonumber
+\end{equation}
+Hence, we can define resistivity quantitatively as:
+\textit{\textbf{``The resistance of a wire of unit cross-section and unit length is called resistivity/specific resistance of  that wire.”}}
+Resistivity of a material is identity of material. Substances having high resistivity are poor conductors of electricity and those having low resistivities are good conductors
+\subsubsection{Unit of Resistivity}
+The S.I unit of resistivity is ohm-metre ($\Omega$ m).
+\section{Conductance}
+\textit{\textbf{``The reciprocal of resistance of a conductor is called conductance of that conductor"".}}
+\subsection*{Symbol}
+Its symbol is ‘G’.
+\subsection*{Mathematical Form}
+If a conductor has resistance ‘R’, then its conductance ‘G’ is given by:
+\begin{mybox}{red}{}
+\begin{equation}\label{eq:12.8}
+    G=\frac{1}{R}
+\end{equation}
+\end{mybox}
+\subsection*{Unit}
+As it is the reciprocal of resistance, so its unit is $ohm^{-1}$ or
+$mho$ (ohm spelt backward). A practical unit is siemen denoted by S.
+\section{Conductivity}
+\textit{\textbf{``The reciprocal of resistivity is called conductivity of a conductor.”}}
+\subsection*{Symbol}
+It is denoted by ‘$\sigma$’.
+\subsection*{Mathematical Form}
+If ‘$\rho$’ is the resistivity of  a conductor, then its conductivity ‘$\sigma$’ is given by:
+\begin{mybox}{red}{}
+\begin{equation}
+    \sigma = \frac{1}{\rho} = \frac{L}{RA}
+\end{equation}
+\end{mybox}
+\subsection*{Unit}
+The S.I unit of conductivity is $ohm^{-1}\:m^{-1}$ or $mho\:m^{-1}/S\:m^{-1}$.
+\section{Effect of Temperature on Resistance}
+Consider a material having certain resistance. As we  know that resistance is a result of collision of electrons with atoms vibrating about their mean positions. Also from kinetic molecular studies, we know that temperature is the measure of average kinetic energy of vibrational and other motions. When temperature is increased, the atoms vibrate with higher amplitude, hence collisions with electrons increase and hence resistance increases. Note that here, we considered the case of metals. In case of pure metals, resistance increases with temperature fairly regular for normal range of temperatures.
+\subsection{Temperature Coefficient of Resistance}
+Let us consider a conductor having resistance ‘$R_{o}$’ at $0^{\circ} C$ and `$R_{T}$' at an elevated temperature `$T^{\circ}C$'. It has been found that in the normal range of temperatures, the change in resistance ‘$R_{T} - R_{o}$’ is:
+\begin{itemize}
+\item Directly proportional to the original temperature i.e. 
+\end{itemize}
+  \begin{equation}\label{rel:12.10}
+    R_{T} - R_{o} \propto R_{o}
+  \end{equation}
+  \begin{itemize}
+\item Directly proportional to the rise in temperature `$\Delta T$’, so,
+  \end{itemize}
+\begin{equation}\label{rel:12.11}
+    R_{T} - R_{o} \propto\Delta T
+\end{equation}
+
+Combining relations \ref{rel:12.10} \& \ref{rel:12.11}:
+\begin{equation}\notag
+    R_{T} - R_{o}\propto R_{o}\Delta T
+\end{equation}
+\begin{mybox}{red}{}
+    \begin{equation}\label{eq:12.12}
+        R_{T} - R_{o} = \alpha R_{o}\Delta T
+    \end{equation}
+\end{mybox}
+\noindent where ‘$\alpha$’ is the constant of proportionality and
+is called \textit{\textbf{``temperature coefficient of resistance".}} Its
+value depends upon:
+\begin{enumerate}[label=(\roman*)] 
+\item Nature of the material
+\item Temperature 
+\end{enumerate}
+Now, rearranging equation \ref{eq:12.12}, we get:
+\begin{equation}\nonumber
+    R_{T} = R{o}\:(1 + \alpha\Delta T)
+\end{equation}
+This equation is used to find the resistance of a material at
+an elevated temperature.
+For definition of temperature coefficient of resistance `$\alpha$',
+rearrange (12.12) as:
+\begin{equation}\label{eq:12.13}
+    \alpha = \frac{R_{T}-R_{o}}{R_{o}\Delta T} 
+\end{equation}
+Hence, we can define temperature coefficient of resistance as,
+\textit{\textbf{``Change in resistance per unit original resistance per degree/kelvin rise in temperature.”}} or \textit{\textbf{``Fractional change in resistance per degree/kelvin rise in temperature."}}
+\subsubsection{Unit}
+The units are $^{\circ}C_{-1}$ or $K_{-1}$.
+\subsubsection{Positive and Negative Temperature Coefficient of Resistance}
+The materials whose resistance increases with the rise in temperature i.e
+$R_{T}-R_{o}$ is a positive quantity have positive coefficient of resistance,
+e.g. metals have positive value of α. While others with negative $\alpha$,
+their resistance decreases with the rise in temperature e.g. in case of
+semiconductors. It is due to the fact that when temperature is increased
+for a semiconductor material, the number of electrons increase,
+and vacancy of electron (hole) is created, hence material conducts more
+(The details are discussed in chapter 17). Hence with respect to $R_{o}$,
+the quantity $R_{T}-R_{o}$ is a negative quantity, hence value of $\alpha$
+is negative. Same is observed in case of non-metals, since at higher
+temperatures, electrons are shaken loose and leave their places for
+conduction.
+\subsection{Variation of Resistivity with Temperature}
+The resistivity of most materials increase with increase in temperature
+linearly. Looking over equation \ref{eq:12.12}, putting respective values
+of resistance:
+\begin{equation}\notag
+\frac{\rho_{T}L}{A} - \frac{\rho_{o}L}{A} = \frac{\rho_{o}L}{A}\alpha\Delta T
+\end{equation}
+which implies
+\begin{equation}\nonumber
+\rho_{T}-\rho_{o} = \rho_{o} \alpha  \Delta T    
+\end{equation}
+so,
+\begin{equation}
+    \alpha = \frac{\rho_{T} - \rho_{o}}{\rho_{o}\Delta T}
+\end{equation}
+Where `$\alpha$' is called temperature coefficient of resistivity and defined as \textit{\textbf{``fractional change in resistivity per degree/kelvin rise in temperature".}}
+The concept of positive and negative temperature coefficient of resistivity is same as for temperature coefficient of resistance.
+\subsubsection{Uses}
+The temperature coefficient of resistivity of materials can be used to distinguish between metals, e.g Iron and Platinum can have the same resistivity but different coefficients of resistivity
+\section{Types of Resistors}
+Resistors are required for many purposes in electrical circuits. Although resistors dissipate energy but still useful in circuits. There may exist several types of resistors but three main types are
+\begin{enumerate}[label=(\roman*)]
+\item Carbon Resistors
+\item Wire-Wound Resistors
+\item Thermistors
+\end{enumerate}
+Here we discuss only wire-wound resistors and thermistors.
+\subsection{Wire-Wound Resistors}
+In a wire wound resistor, a long wire is wound to occupy a minimum space. Wires of alloys such as manganin, constantan, eureka etc. are used for such resistors because of their high resistances. Resistance boxes in laboratory consists of coils, which can be connected in series by plugs or switches to give the required value. High accuracy and stability resistors are always wire-wound. They can be fixed or variable.
+\subsection*{Variable Wire-Wound Resistors}
+In this type, a wire of high resistivity is wrapped around an insulating core to get a variable resistance out of it.
+\subsubsection{Construction}
+To design a  variable wire-wound resistor, generally Nickel or Chromium is used because of its very small coefficient of resistance. Wire-wound resistors can safely operate at higher temperatures than carbon-type resistors.
+\subsubsection{Uses}
+Wire-wound resistors can be used in two different ways:
+\begin{enumerate}[label=(\roman*)]
+\item Rheostats
+\item Potential Divider
+\end{enumerate}
+\paragraph{i. Rheostats:}
+\textit{\textbf{``A device used for controlling current in the circuit".}}
+\paragraph{Working Rule:}
+By adjusting the length of the wire-wound resistor, current us controlled.
+\paragraph{Working:}
+The working is very simple. To use it as a current-control device, one of its fixed terminal, here A, and other sliding terminal, here C, are inserted as shown:
+%figure
+In this way, the resistance between the sliding terminal C and fixed terminal A is used. If the sliding contact C is shifted away from terminal A towards B, then the length of the effective path increases, hence resistance to be used increases. If the sliding contact is moved towards A, the length hence resistance decreases.Adjusting the resistance in the circuit thus controls the current in the circuit.
+\paragraph{ii. Potential Divider:}
+\textit{\textbf{``A device which helps us to provide a variable potential difference  from a fixed potential difference".}}
+\paragraph{Basic Principle:}
+The underlying principle is conversion of large battery to provide us a small battery by varying the resistance of the circuit.
+\paragraph{Working:}
+The arrangement for a potential divider is shown in the figure below
+%figure
+With the help of a battery, a potential difference ‘V’ IS applied across
+the ends ‘A’ and ‘B’ of the resistor. Let ‘R’ be the resistance of the wire
+AB. The current passing through AB will be according to Ohm’s law, given by
+\begin{equation}\nonumber
+     I=\frac{V}{R}
+\end{equation}
+If R{BC}  is the resistance of the portion BC of the wire which is
+adjustable and the current passing through this portion is I.
+The potential difference between the points ‘B’ and ‘C’ is given by
+\begin{equation}\nonumber
+    V_{BC}= IR_{BC}
+\end{equation}
+\begin{equation}\nonumber
+    V_{BC}=\frac{V}{R}R_{BC}
+\end{equation}
+\begin{mybox}{red}{}
+\begin{equation}\label{eq:12.16}
+    V_{BC} = \frac{R_{BC}}{R} V
+\end{equation}
+\end{mybox}
+Depending upon the position of the sliding contact C, the value of the
+fraction $\frac{R_{BC}}{R}$ can  be varied from 0 to 1 (when $R_{BC} = R$,
+$V_{BC} = V$ and when $R_{BC} = 0$, $V_{BC}=0$. When the sliding contact is moved towards ‘B’
+the length of the portion BC decreases, hence the resistance of small
+portion decreases which reduces the obtained voltage $V_{BC}$.
+On the other hand, if the sliding contact ‘C’ is moved towards ‘A’ the
+length and hence the resistance of the portion BC increases and hence
+the voltage $V_{BC}$ increases.
+\subsection{Thermistor}
+\textit{\textbf{``A resistor made of semiconductors having resistance that varies rapidly and noticeably with temperature is known as thermistor”.}}
+\subsubsection{Explanation}
+A thermistor is actually a ‘thermal resistor’. It is a heat sensitive device usually made of a semiconductor material whose resistance varies rapidly with the variation of temperature.
+\subsubsection{Properties}
+A thermistor has mainly the following properties:
+\paragraph{i. Resistance:}
+The resistance of a thermistor changes very rapidly with change of temperature.
+\paragraph{ii. High Temperature Coefficient:}
+The temperature coefficient of thermistor is very high
+\paragraph{iii. Negative and Positive Temperature Coefficients:}
+The temperature coefficient of thermistor can be both positive and negative. Positives have the property of rise of their resistance with rise in temperature and negative temperature coefficient thermitors are those whose resistance decreases with rise in temperature.
+\subsubsection{Construction}
+Thermistors are made by heating under high pressure semiconductor ceramic made from mixture of metallic oxides of manganese, iron, nickel,cobalt etc. They are generally in the form of discs or rods. Pair of Platinum leads are attached at the two ends for electrical connections. The arrangement is enclosed in a very small glass bulb and sealed.
+\subsubsection{Applications of Thermistor}
+Following are some of the applications of thermistors:
+\paragraph{i. Safeguard against Surges in a Circuit:}
+A thermistor with negative temperature coefficient of resistance may be used to safeguard against surges in a circuit where this could be harmful, e.g in a circuit where the heater of radio valves are in series as shown.
+%figure
+A thermistor is included in the circuit. When the supply voltage is switched on the thermistor has a high resistance at first because it is cold. It thus limits the current to a moderate value. As it warms up, the thermistor resistance drops appreciably and an increased current then flow through the heaters.
+\paragraph{ii. Use in Modern Appliances:}
+Modern appliances, communication tools and accessories like mobile phone, computers, LCD displays, CPUs, rechargeable batteries, and medical and patient monitoring equipment are all equipped with thermistors so they can be used continuously without fear of overheating and appliance damage.
+\paragraph{iii. Use for Alarms in Windings:}
+A thermistor with a negative temperature coefficient (NTC) can be used to issue an alarm for excessive temperature of winding of motors,transformers and generators. When the temperature of the windings is low, the thermistor is cool and its resistance is high. Hence, only a small amount of current flows through the thermistor. When the temperature of the windings is high, the thermistor is hot and its resistance is low, hence a large current flows in the coil to close the contact.
+\paragraph{iv. Temperature Control in Various Devices:}
+Some appliances such as washing machines, clothes dryers, refrigerators and freezers as well as appliances like hair dryers, curling irons, ovens, toasters, thermostats, air conditioners and fire alarms also have NTCs for their temperature control. 
+\section{Electromotive Force}
+\textit{\textbf{``The amount of work done in moving a unit positive charge from negative terminal to the positive terminal of the battery.”}}
+\subsection*{Symbol}
+It is denoted by ‘ε’.
+\subsection*{Mathematical form}
+If ‘W’ is the amount of work done in moving a charge ‘q’ from negative terminal to positive terminal of the battery , then emf ‘ε’ will be
+ given by:
+\begin{equation}\nonumber
+     E = \frac{W}{q}
+\end{equation}
+\subsection*{Unit}
+The S.I unit of emf is volt(V).
+\subsection*{Source of Emf}
+In our daily life, we need a constant current in an electric circuit. To maintain a constant current, a constant potential difference needed across the conductor. This potential difference can be maintained if some device change some non-electrical energy into electrical energy. This device is called source of emf. We can define the source of emf as
+\textit{\textbf{``A device which converts non-electrical energy into electrical energy in order to maintain a constant potential difference in the external circuit is called a source of emf.”}}
+The figure below shows a source with emf ε connected to a resistor R. Inside the battery the current is from negative to positive terminal, while in the outer circuit, it is from positive terminal to negative terminal of the battery. The battery maintains its upper terminal at a high potential and its lower terminal at zero potential acting as a source of emf.
+\subsection*{Sources of emf}
+The work done on the charges in the source of emf to push them along it must be derived  from a source of energy. There are many sources of emf, some are:
+\begin{enumerate}[label=(\roman*)]
+\item Batteries or cells convert chemical energy into electrical energy.
+\item Electrical generators convert mechanical energy into electrical energy.
+\item Thermocouples convert heat energy into electrical energy.
+\item Radiant(a solar cell) converts sunlight directly into electrical energy.
+\end{enumerate}
+\section{Potential Difference}
+\textit{\textbf{``It is the amount of energy per unit charge converted from electrical energy into a non-electrical energy across the ends of a conductor.”}}
+\subsection*{Explanation}
+As we discussed that battery supplies energy to a charge ,this charge when passes through a conductor (or resistor), it loses energy and comes to lower potential, this dissipation of energy per unit charge is termed as potential difference. It is denoted by V. It has also units same as emf i.e. volt.
+\subsection{Internal Resistance of a Power Supply}
+All power supplies have some internal resistance, a negligible resistance. When the circuit is open i.e. the power supply is delivering no current, then potential difference across the terminals of the battery is equal to the emf of the supply. When a load of resistance ‘R’ is connected across the terminal of the battery, then current ‘I’ starts flowing through the circuit as shown:
+%figure
+Due to the flow of current, there is a voltage drop across internal resistance ‘r’ of the supply so that terminal voltage ‘V’ will be less than ε  by Ir. So , we can develop a relationship between ‘V’ and ‘ε’ can be easily established.
+As we know that:
+

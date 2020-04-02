@@ -63,6 +63,7 @@
 \usepackage[utf8x]{inputenc}
 \usepackage{esvect}
 \usepackage{fullpage}
+\usepackage{amssymb}
 \usepackage{xcolor}
 \usepackage{textgreek}
 \usepackage{enumitem}
@@ -73,7 +74,7 @@
 \usepackage{listings}
 \usepackage{subcaption}
 \usepackage{xpatch}
-
+%\renewcommand{\labelitemi}{$\blacksquare$}
 \definecolor{subsectioncolor}{RGB}{0,73,140}
 \definecolor{subsubsectioncolor}{RGB}{0,73,120}
 \definecolor{paragraphcolor}{RGB}{0,73,110}
@@ -193,7 +194,14 @@
   %boxsep = 5pt,
 }
 \usepackage{scalerel}
-\def\capacitor{\scalerel*{\includegraphics{Images/capacitor}}{X}}
+\def\capacitor{\scalerel*{\includegraphics{Images/capacitor}}{X}}%
+\def\checkpoint{\scalerel*{\includegraphics{Images/checkpoint}}{X}}
+\def\note{\scalerel*{\includegraphics{Images/Note}}{X}}
+\def\resistor{\scalerel*{\includegraphics{Images/resistor}}{X}}
+% \newcommand{\checkpoint}
+% {
+%     {\includegraphics[height = 1.5em]{Images/checkpoint.png}}
+% }
 \begin{document}
 
 \makefrontmatter

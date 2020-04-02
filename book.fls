@@ -136,6 +136,10 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\esvect\esvect.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\esvect\esvect.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\preprint\fullpage.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
@@ -350,6 +354,16 @@ INPUT C:\Program Files\MiKTeX 2.9\tex\latex\esvect\uesvect.fd
 INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect10.tfm
 INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect8.tfm
 INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect6.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 OUTPUT g:\Keybook\Physics\Volume II\book.toc
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-11\Chapter-11.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-11\Chapter-11.tex
@@ -361,99 +375,367 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-32.def
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect10.tfm
+INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect10.tfm
 INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-3.def
 INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-3.def
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cbgreek\grmn1200.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.1.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.2.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.3.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.1.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.2.png
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.3.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.3.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.3.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.3.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.3.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4a.png
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT g:\Keybook\Physics\Volume II\Images\11.4b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.4b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6a.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.6b.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.7.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.7.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.7.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.7.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.7.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
-INPUT g:\Keybook\Physics\Volume II\Images\11.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.4b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.6b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.13b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.15.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.15.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.15.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.15.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.15.png
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
 INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
 INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
 INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
 INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
 INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
 INPUT g:\Keybook\Physics\Volume II\Images\capacitor.pdf
-INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
-INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
-INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
-INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
-INPUT g:\Keybook\Physics\Volume II\Images\capacitors.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.29.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.29.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.29.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.29.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.29.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.30.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.30.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.30.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.30.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.30.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.31.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.31.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.31.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.31.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.31.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.32.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.32.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.32.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.32.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.32.png
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.33.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.33.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.33.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.33.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.33.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.32.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.32.png
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.36.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.36.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.36.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.36.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.36.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.37.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.37.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.37.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.37.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.37.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.38.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.38.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.38.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.38.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.38.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.40.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.40.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.40.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.40.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.40.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.39.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.39.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.39.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.39.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.39.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.41.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.41.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.41.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.41.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.41.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42a.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42a.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42a.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42a.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42a.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42b.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42b.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42b.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42b.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42b.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42c.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42c.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42c.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42c.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.42c.jpg
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43a.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43a.png
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\asads\AppData\Local\MiKTeX\2.9\fonts\tfm\public\esvect\vect10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-11\11.43b.png
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.tex
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-12\Chapter-12.tex
+INPUT g:\Keybook\Physics\Volume II\Images\resistor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\resistor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\resistor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\resistor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\resistor.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\resistor.pdf
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.tex
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-13\Chapter-13.tex
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def
-INPUT C:\Program Files\MiKTeX 2.9\tex\latex\ucs\uni-0.def
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cbgreek\grxi1200.tfm
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\checkpoint.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.tex
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-14\Chapter-14.tex
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.aux
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.tex
 INPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-15\Chapter-15.tex
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.4.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.4.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.4.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.4.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.4.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.5.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.5.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.5.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.5.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.5.png
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.7.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.8.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.9.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.10.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.11.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.12.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.13.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.13.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.13.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.13.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.13.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.14.png
+INPUT g:\Keybook\Physics\Volume II\Images\Chapter-15\15.14.png
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbxti10.tfm
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
+INPUT g:\Keybook\Physics\Volume II\Images\Note.pdf
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-16\Chapter-16.aux
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-17\Chapter-17.aux
 OUTPUT g:\Keybook\Physics\Volume II\CHAPTERS\Chapter-18\Chapter-18.aux
@@ -492,10 +774,14 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi6.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
@@ -520,5 +806,5 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grmn1200.pfb
 INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grmn1200.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grxi1200.pfb
-INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\cbgreek\grxi1200.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb
+INPUT C:\Program Files\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msam10.pfb

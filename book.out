@@ -1,7 +1,7 @@
 \BOOKMARK [1][-]{Contents.1}{Contents}{}% 1
 \BOOKMARK [0][-]{chapter.11}{11 Electrostatics}{}% 2
 \BOOKMARK [1][-]{section.11.1}{11.1 Electric Charge}{chapter.11}% 3
-\BOOKMARK [2][-]{subsection.11.1.1}{11.1.1 Properties of Electric charge}{section.11.1}% 4
+\BOOKMARK [2][-]{subsection.11.1.1}{11.1.1 Properties of Electric Charge}{section.11.1}% 4
 \BOOKMARK [1][-]{section.11.2}{11.2 Coulomb\220s law}{chapter.11}% 5
 \BOOKMARK [2][-]{subsection.11.2.1}{11.2.1 Coloumb\220s law in Material Media}{section.11.2}% 6
 \BOOKMARK [2][-]{subsection.11.2.2}{11.2.2 Units of Electric Charge}{section.11.2}% 7
@@ -12,8 +12,8 @@
 \BOOKMARK [2][-]{subsection.11.3.2}{11.3.2 Electric Lines of Force/Electric Field Lines}{section.11.3}% 12
 \BOOKMARK [2][-]{subsection.11.3.3}{11.3.3 Field Lines of Some Electrostatic Charge Distributions}{section.11.3}% 13
 \BOOKMARK [1][-]{section.11.4}{11.4 Electric Flux}{chapter.11}% 14
-\BOOKMARK [2][-]{subsection.11.4.1}{11.4.1 Flux Through an Arbitary Shaped Body}{section.11.4}% 15
-\BOOKMARK [2][-]{subsection.11.4.2}{11.4.2 Flux through a closed Arbitrary Surface}{section.11.4}% 16
+\BOOKMARK [2][-]{subsection.11.4.1}{11.4.1 Flux through an Arbitary Shaped Body}{section.11.4}% 15
+\BOOKMARK [2][-]{subsection.11.4.2}{11.4.2 Flux through a Closed Arbitrary Surface}{section.11.4}% 16
 \BOOKMARK [1][-]{section.11.5}{11.5 Gauss\220s Law}{chapter.11}% 17
 \BOOKMARK [2][-]{subsection.11.5.1}{11.5.1 Electric Flux due to Many Charges}{section.11.5}% 18
 \BOOKMARK [2][-]{subsection.11.5.2}{11.5.2 Applications of Gauss\220s Law}{section.11.5}% 19
@@ -26,35 +26,76 @@
 \BOOKMARK [1][-]{section.11.10}{11.10 Capacitor}{chapter.11}% 26
 \BOOKMARK [2][-]{subsection.11.10.1}{11.10.1 Capacitance of the Capacitor}{section.11.10}% 27
 \BOOKMARK [2][-]{subsection.11.10.2}{11.10.2 Capacitance of a Parallel Plate Capacitor}{section.11.10}% 28
-\BOOKMARK [0][-]{chapter.12}{12 Electrodynamics/Current Electricity}{}% 29
-\BOOKMARK [1][-]{section.12.1}{12.1 Electric Current}{chapter.12}% 30
-\BOOKMARK [1][-]{section.12.2}{12.2 Drift Velocity of Electrons in a Metallic Conductor}{chapter.12}% 31
-\BOOKMARK [1][-]{section.12.3}{12.3 Sources of Current}{chapter.12}% 32
-\BOOKMARK [1][-]{section.12.4}{12.4 Elecroencephalogram\(EEG\)}{chapter.12}% 33
-\BOOKMARK [1][-]{section.12.5}{12.5 Ohm's Law}{chapter.12}% 34
-\BOOKMARK [1][-]{section.12.6}{12.6 I-V characteristics for Ohmic and Non-ohmic materials}{chapter.12}% 35
-\BOOKMARK [0][-]{chapter.13}{13 Electromagnetism}{}% 36
-\BOOKMARK [1][-]{section.13.1}{13.1 History}{chapter.13}% 37
-\BOOKMARK [1][-]{section.13.2}{13.2 Definition of Electromagnetism}{chapter.13}% 38
-\BOOKMARK [1][-]{section.13.3}{13.3 Magnetic Field}{chapter.13}% 39
-\BOOKMARK [2][-]{subsection.13.3.1}{13.3.1 Forces of Magnets}{section.13.3}% 40
-\BOOKMARK [2][-]{subsection.13.3.2}{13.3.2 Magnetic Field Lines}{section.13.3}% 41
-\BOOKMARK [2][-]{subsection.13.3.3}{13.3.3 Magnetic Field of an Electric current}{section.13.3}% 42
-\BOOKMARK [1][-]{section.13.4}{13.4 Force on a current carrying conductor}{chapter.13}% 43
-\BOOKMARK [2][-]{subsection.13.4.1}{13.4.1 Magnitude of Force}{section.13.4}% 44
-\BOOKMARK [2][-]{subsection.13.4.2}{13.4.2 Unit of Magnetic Field}{section.13.4}% 45
-\BOOKMARK [1][-]{section.13.5}{13.5 Magnetic Flux}{chapter.13}% 46
-\BOOKMARK [2][-]{subsection.13.5.1}{13.5.1 Mathematical Form}{section.13.5}% 47
-\BOOKMARK [2][-]{subsection.13.5.2}{13.5.2 Explanation}{section.13.5}% 48
-\BOOKMARK [2][-]{subsection.13.5.3}{13.5.3 Maximum Flux}{section.13.5}% 49
-\BOOKMARK [2][-]{subsection.13.5.4}{13.5.4 Minimum Flux}{section.13.5}% 50
-\BOOKMARK [2][-]{subsection.13.5.5}{13.5.5 Unit}{section.13.5}% 51
-\BOOKMARK [2][-]{subsection.13.5.6}{13.5.6 Magnetic Flux Density}{section.13.5}% 52
-\BOOKMARK [1][-]{section.13.6}{13.6 Ampere\220s Circuital Law}{chapter.13}% 53
-\BOOKMARK [2][-]{subsection.13.6.1}{13.6.1 Background}{section.13.6}% 54
-\BOOKMARK [2][-]{subsection.13.6.2}{13.6.2 Statement}{section.13.6}% 55
-\BOOKMARK [2][-]{subsection.13.6.3}{13.6.3 Mathematically}{section.13.6}% 56
-\BOOKMARK [2][-]{subsection.13.6.4}{13.6.4 Explanation}{section.13.6}% 57
-\BOOKMARK [0][-]{chapter.14}{14 Electromagnetic Induction}{}% 58
-\BOOKMARK [0][-]{chapter.15}{15 AC Circuits}{}% 59
-\BOOKMARK [0][-]{chapter.16}{16 Nuclear Physics}{}% 60
+\BOOKMARK [2][-]{subsection.11.10.3}{11.10.3 Combination of Capacitors}{section.11.10}% 29
+\BOOKMARK [1][-]{section.11.11}{11.11 Energy Stored in a Capacitor}{chapter.11}% 30
+\BOOKMARK [1][-]{section.11.12}{11.12 Electric Polarization}{chapter.11}% 31
+\BOOKMARK [1][-]{section.11.13}{11.13 Charging and Discharging of a Capacitor}{chapter.11}% 32
+\BOOKMARK [2][-]{subsection.11.13.1}{11.13.1 Process of Charging}{section.11.13}% 33
+\BOOKMARK [2][-]{subsection.11.13.2}{11.13.2 Process of Discharging}{section.11.13}% 34
+\BOOKMARK [0][-]{chapter.12}{12 Electrodynamics/Current Electricity}{}% 35
+\BOOKMARK [1][-]{section.12.1}{12.1 Electric Current}{chapter.12}% 36
+\BOOKMARK [1][-]{section.12.2}{12.2 Drift Velocity of Electrons in a Metallic Conductor}{chapter.12}% 37
+\BOOKMARK [1][-]{section.12.3}{12.3 Sources of Current}{chapter.12}% 38
+\BOOKMARK [1][-]{section.12.4}{12.4 Elecroencephalogram\(EEG\)}{chapter.12}% 39
+\BOOKMARK [1][-]{section.12.5}{12.5 Ohm's Law}{chapter.12}% 40
+\BOOKMARK [2][-]{subsection.12.5.1}{12.5.1 I-V Characteristics for Ohmic and Non-ohmic Materials}{section.12.5}% 41
+\BOOKMARK [1][-]{section.12.6}{12.6 Electrical Resistance}{chapter.12}% 42
+\BOOKMARK [2][-]{subsection.12.6.1}{12.6.1 Specific Resistance/Resistivity}{section.12.6}% 43
+\BOOKMARK [1][-]{section.12.7}{12.7 Conductance}{chapter.12}% 44
+\BOOKMARK [1][-]{section.12.8}{12.8 Conductivity}{chapter.12}% 45
+\BOOKMARK [1][-]{section.12.9}{12.9 Effect of Temperature on Resistance}{chapter.12}% 46
+\BOOKMARK [2][-]{subsection.12.9.1}{12.9.1 Temperature Coefficient of Resistance}{section.12.9}% 47
+\BOOKMARK [2][-]{subsection.12.9.2}{12.9.2 Variation of Resistivity with Temperature}{section.12.9}% 48
+\BOOKMARK [1][-]{section.12.10}{12.10 Types of Resistors}{chapter.12}% 49
+\BOOKMARK [2][-]{subsection.12.10.1}{12.10.1 Wire-Wound Resistors}{section.12.10}% 50
+\BOOKMARK [2][-]{subsection.12.10.2}{12.10.2 Thermistor}{section.12.10}% 51
+\BOOKMARK [1][-]{section.12.11}{12.11 Electromotive Force}{chapter.12}% 52
+\BOOKMARK [1][-]{section.12.12}{12.12 Potential Difference}{chapter.12}% 53
+\BOOKMARK [2][-]{subsection.12.12.1}{12.12.1 Internal Resistance of a Power Supply}{section.12.12}% 54
+\BOOKMARK [0][-]{chapter.13}{13 Electromagnetism}{}% 55
+\BOOKMARK [1][-]{section.13.1}{13.1 History}{chapter.13}% 56
+\BOOKMARK [1][-]{section.13.2}{13.2 Definition of Electromagnetism}{chapter.13}% 57
+\BOOKMARK [1][-]{section.13.3}{13.3 Magnetic Field}{chapter.13}% 58
+\BOOKMARK [2][-]{subsection.13.3.1}{13.3.1 Forces of Magnets}{section.13.3}% 59
+\BOOKMARK [2][-]{subsection.13.3.2}{13.3.2 Magnetic Field Lines}{section.13.3}% 60
+\BOOKMARK [2][-]{subsection.13.3.3}{13.3.3 Magnetic Field of an Electric current}{section.13.3}% 61
+\BOOKMARK [1][-]{section.13.4}{13.4 Force on a current carrying conductor}{chapter.13}% 62
+\BOOKMARK [1][-]{section.13.5}{13.5 Magnetic Flux}{chapter.13}% 63
+\BOOKMARK [2][-]{subsection.13.5.1}{13.5.1 Symbol}{section.13.5}% 64
+\BOOKMARK [2][-]{subsection.13.5.2}{13.5.2 Magnetic Flux Density}{section.13.5}% 65
+\BOOKMARK [1][-]{section.13.6}{13.6 Ampere\220s Circuital Law}{chapter.13}% 66
+\BOOKMARK [1][-]{section.13.7}{13.7 Magnetic Field due to a Current Carrying Solenoid}{chapter.13}% 67
+\BOOKMARK [1][-]{section.13.8}{13.8 Magnetic Force on a Moving Charge}{chapter.13}% 68
+\BOOKMARK [2][-]{subsection.13.8.1}{13.8.1 Circular Trajectory of a Charged Particle in a Magnetic Field}{section.13.8}% 69
+\BOOKMARK [2][-]{subsection.13.8.2}{13.8.2 Helical Trajectory of a Charged Particle}{section.13.8}% 70
+\BOOKMARK [2][-]{subsection.13.8.3}{13.8.3 Determination of e/m for an Electron}{section.13.8}% 71
+\BOOKMARK [2][-]{subsection.13.8.4}{13.8.4 Charge in Combined Electric and Magnetic Field}{section.13.8}% 72
+\BOOKMARK [2][-]{subsection.13.8.5}{13.8.5 Velocity Selector}{section.13.8}% 73
+\BOOKMARK [0][-]{chapter.14}{14 AC Circuits}{}% 74
+\BOOKMARK [1][-]{section.14.1}{14.1 Direct Current}{chapter.14}% 75
+\BOOKMARK [2][-]{subsection.14.1.1}{14.1.1 Pure D.C}{section.14.1}% 76
+\BOOKMARK [2][-]{subsection.14.1.2}{14.1.2 Pulsating D.C}{section.14.1}% 77
+\BOOKMARK [1][-]{section.14.2}{14.2 Alternating Current}{chapter.14}% 78
+\BOOKMARK [1][-]{section.14.3}{14.3 Sinusoidal Alternating Voltage and Current}{chapter.14}% 79
+\BOOKMARK [2][-]{subsection.14.3.1}{14.3.1 Average Value of Alternating Voltage and Current}{section.14.3}% 80
+\BOOKMARK [2][-]{subsection.14.3.2}{14.3.2 Root mean square value}{section.14.3}% 81
+\BOOKMARK [1][-]{section.14.4}{14.4 Single Element A.C Circuit}{chapter.14}% 82
+\BOOKMARK [2][-]{subsection.14.4.1}{14.4.1 Resistor in A.C Circuit}{section.14.4}% 83
+\BOOKMARK [2][-]{subsection.14.4.2}{14.4.2 Capacitor in an A.C Circuit:}{section.14.4}% 84
+\BOOKMARK [2][-]{subsection.14.4.3}{14.4.3 Inductor in an A.C Circuit}{section.14.4}% 85
+\BOOKMARK [1][-]{section.14.5}{14.5 Choke Coil}{chapter.14}% 86
+\BOOKMARK [1][-]{section.14.6}{14.6 Impedance}{chapter.14}% 87
+\BOOKMARK [1][-]{section.14.7}{14.7 RL-Series Circuit}{chapter.14}% 88
+\BOOKMARK [1][-]{section.14.8}{14.8 RC Series A.C Circuit}{chapter.14}% 89
+\BOOKMARK [1][-]{section.14.9}{14.9 RLC Series A.C Circuit}{chapter.14}% 90
+\BOOKMARK [2][-]{subsection.14.9.1}{14.9.1 Explanation}{section.14.9}% 91
+\BOOKMARK [1][-]{section.14.10}{14.10 Series Resonance A.C Circuits}{chapter.14}% 92
+\BOOKMARK [1][-]{section.14.11}{14.11 Electromagnetic Radiations}{chapter.14}% 93
+\BOOKMARK [2][-]{subsection.14.11.1}{14.11.1 Light}{section.14.11}% 94
+\BOOKMARK [2][-]{subsection.14.11.2}{14.11.2 Infrared}{section.14.11}% 95
+\BOOKMARK [2][-]{subsection.14.11.3}{14.11.3 Microwaves}{section.14.11}% 96
+\BOOKMARK [2][-]{subsection.14.11.4}{14.11.4 Radio Waves}{section.14.11}% 97
+\BOOKMARK [2][-]{subsection.14.11.5}{14.11.5 Ultraviolet}{section.14.11}% 98
+\BOOKMARK [2][-]{subsection.14.11.6}{14.11.6 X-rays}{section.14.11}% 99
+\BOOKMARK [2][-]{subsection.14.11.7}{14.11.7 Gamma rays}{section.14.11}% 100
+\BOOKMARK [0][-]{chapter.15}{15 Nuclear Physics}{}% 101
